@@ -1,2 +1,1 @@
-# homebrew
-Homebrew Wik for Paper Story TTRPG
+# Paper Story Homebrew Wiki

@@ -1,0 +1,16 @@
+{% comment %}
+  Use {% include contributors/new.html %}
+  for listing tags that do not have pages in /_contributor/.
+{% endcomment %}
+
+{%- include contributors/site_contributor_page.html -%}
+
+{% for slug in site_contributor_slugs -%}
+  {%- unless site_contributor_page_slugs contains slug -%}
+    
+  {% include contributors/page.md slug=slug %}
+    
+  {% endunless -%}
+{%- endfor %}
+
+{%- assign slug = nil -%}

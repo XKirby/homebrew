@@ -1,0 +1,24 @@
+{%- comment -%}
+  Use {%- include contributors/contributor_link.html tag=STRING font_size=STRING -%}
+  for an HTML link to the page where the specified tag is previewed.
+  
+  The font_size is optional; when specified, the corresponding style attribute
+  is added to the link.
+  
+  The variable site_tag_urls is initialised if nil.
+{%- endcomment -%}
+
+{%- capture attr -%}
+{%- if include.size %} style="font-size: {{ include.font_size }}"{%- endif -%}
+{%- endcapture -%}
+
+{%- unless site_contributor_page_urls -%}
+  {%- assign site_contributor_page_urls = site.contributor | map: "url" -%}
+{%- endunless -%}
+{%- assign contributor_url = include.contributor | slugify | prepend: "/contributor/" -%}
+{%- unless site_contributor_page_urls contains contributor_url -%}
+  {%- assign contributor_url = include.contributor | slugify | prepend: "/contributor/#" -%}
+{%- endunless -%}
+{% assign contributor_link_data = site.data.contributors | where: 'id', include.contributor | first %}
+<a href="{{ site.url }}{{ site.baseurl }}{{ contributor_url }}" {{ attr }}>{{ contributor_link_data.name }}</a>
+{%- assign contributor_url = nil -%}

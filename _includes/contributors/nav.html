@@ -1,0 +1,66 @@
+{%- comment -%}
+  Use {%- include contributors/nav.html -%}
+  for an HTML list of links to where the tags are previewed.
+{%- endcomment -%}
+
+{% raw %}
+<!-- {%- if page.contributors.size > 0 -%}
+<ul class="contributor-list">
+  <li class="contributor-list-item"><a href="{{ site.url }}{{ site.baseurl }}/contributor/">Contributors</a>:</li>
+  {% for contributor in page.contributors %}
+  <li class="contributor-list-item">#{% include contributors/contributor_link.html contributor=contributor %}</li>
+  {% endfor %}
+  {%- assign contributor = nil %}
+</ul>
+{%- endif -%} -->
+{% endraw %}
+
+{%- if page.contributors.size == 1 -%}
+  {% for _contributor in page.contributors %}
+  {% assign contributor = site.data.contributors | where: 'id', _contributor | first %}
+  <div class="contributor-footer">
+    <div class="c-f-image">
+      {% if contributor.avatar %}
+        <img class="droplet-border" src="{{ "/assets/images/user_pics/" | append: contributor.avatar | absolute_url }}" alt="{{contributor.name}}" width="80" height="80">
+      {% else %}
+        <img class="droplet-border" src="{{ "/assets/images/rtw_square.png" | absolute_url }}" alt="{{contributor.name}}" width="80" height="80">
+      {% endif %}
+    </div>
+    <div class="c-f-infos">
+      <div class="c-f-i-name">
+        {% include contributors/contributor_link.html contributor=contributor.id %}
+      </div>
+      <div class="c-f-i-bio">
+        {% if contributor.bio %}
+        {{ contributor.bio }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+{%- endif -%}
+{%- if page.contributors.size > 1 -%}
+<a href="{{ site.url }}{{ site.baseurl }}/contributor/">Contributors</a>:
+  {% for _contributor in page.contributors %}
+  {% assign contributor = site.data.contributors | where: 'id', _contributor | first %}
+  <div class="contributor-footer">
+    <div class="c-f-image">
+      {% if contributor.avatar %}
+        <img class="droplet-border" src="{{ "/assets/images/user_pics/" | append: contributor.avatar | absolute_url }}" alt="{{contributor.name}}" width="80" height="80">
+      {% else %}
+        <img class="droplet-border" src="{{ "/assets/images/rtw_square.png" | absolute_url }}" alt="{{contributor.name}}" width="80" height="80">
+      {% endif %}
+    </div>
+    <div class="c-f-infos">
+      <div class="c-f-i-name">
+        {% include contributors/contributor_link.html contributor=contributor.id %}
+      </div>
+      <div class="c-f-i-bio">
+        {% if contributor.bio %}
+        {{ contributor.bio }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+{%- endif -%}
