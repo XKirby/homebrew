@@ -1,3 +1,9 @@
-- id: rules
-  name: Rules
-  bio: Rules.
+- id: mei
+  name: Meï
+  avatar: mei.png
+  bio: The original maintainer of this wiki-blog ! Feel free to contact him for any technical questions !
+
+- id: flaws
+  name: Flaws
+  avatar: flaws.png
+  bio: Idk I'll ask him
