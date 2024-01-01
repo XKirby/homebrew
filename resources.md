@@ -130,3 +130,16 @@
 > > Conditions that must be met for the subspecies to be applied to a species, if applicable.
 > >
 >
+
+Example Complex Contributor Page:
+
+```
+---
+description:
+---
+{% include contributors/page_header.md %}
+
+test
+
+{% include contributors/page_light.md %}
+```

@@ -10,7 +10,7 @@ The tag cloud lists all used tags in alphabetical order. The size of the text
 is related to the number of times the tag is used; the exact number is shown
 on the tag pages, and in the list below.
 
-If you would like to suggest a new tag, feel free to open a [new issue](https://github.com/ReclaimTheWild/wiki/issues/new) and ask about it !
+If you would like to suggest a new tag, feel free to open a [new issue](https://github.com/PaperStoryTTRPG/homebrew/issues/new) and ask about it !
 
 {% include tags/cloud.html %}
 
