@@ -767,7 +767,7 @@ contributors:
 {: .specie-callout }
 > ## New Donker
 >
-> ![](../assets/images/icons/tipguy.png)
+> ![](../assets/images/species/new_donker.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
 >
@@ -1175,7 +1175,7 @@ contributors:
 >
 
 {: .specie-callout }
-> ## Tsubōn
+> ## Tsubon
 >
 > ![](../assets/images/species/tsubon.png)
 > {: .float-right-desktop }
