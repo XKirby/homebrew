@@ -22,15 +22,16 @@ contributors:
 {:toc}
 </details>
 
-![](assets/images/scenes/bigmeatybookofraces.png)
+![](../assets/images/scenes/bigmeatybookofraces.png)
 {: .center-img }
 
 {: .specie-callout }
 > ## Baddie Box
 >
-> ![](assets/images/species/baddie_box.png)
+> ![](../assets/images/species/baddie_box.png)
 > {: .float-right-desktop }
 > From *Super Mario 3D Land*{: .italic }, *Super Mario 3D World*{: .italic }  
+>
 > These bizarre blocks are capable of continuously conjuring enemies from within themselves. They have been seen conjuring other objects as well, but mooks and minions appear to be their specialty.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
@@ -60,10 +61,11 @@ contributors:
 {: .specie-callout }
 > ## Blockstepper
 >
-> ![](assets/images/species/blockstepper.png)
+> ![](../assets/images/species/blockstepper.png)
 > {: .float-right-desktop }
 > From *Super Mario 3D World*{: .italic }  
-> Blocksteppers are nothing if not team players. Always marching at least in pairs, you’d be hard pressed to find a blockstepper without at least one staunch ally by their side.
+>
+> Blocksteppers are nothing if not team players. Always marching at least in pairs, you'd be hard pressed to find a blockstepper without at least one staunch ally by their side.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -91,10 +93,12 @@ contributors:
 {: .specie-callout }
 > ## Bonnetter
 >
-> ![](assets/images/species/bonnetter.png)
+> ![](../assets/images/species/bonnetter.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
+>
 > Bonnetters travel the world wide via airships of their likeness. They have an impeccable sense of fashion, and none would dare chastise a bonneeter's opinion on attire.  
+>
 > *Credit to **@deuceblitz**{: .courage-color } and **@lucydndprincess**{: .courage-color } on DIscord for help with the capture State.*{: .fs-3 }
 >
 > ***+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
@@ -137,9 +141,10 @@ contributors:
 {: .specie-callout }
 > ## Bramball
 >
-> ![](assets/images/species/bramball.png)
+> ![](../assets/images/species/bramball.png)
 > {: .float-right-desktop }
 > From *New Super Mario Bros. Wii*{: .italic }, *New Super Mario Bros. U*{: .italic }  
+>
 > The humble bramball strolls from place to place, not paying much mind to what's in its way, or where it's going. Many would describe a bramball as amicable, though not much for conversation, and being marvelous helps when in need of a quick pick-me-up.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
@@ -172,9 +177,10 @@ contributors:
 {: .specie-callout }
 > ## Brock
 >
-> ![](assets/images/species/brock.png)
+> ![](../assets/images/species/brock.png)
 > {: .float-right-desktop }
 > From *Mario & Luigi: Bowser's Inside Story*{: .italic }, *Mario & Luigi: Dream Team*{: .italic }  
+>
 > Brocks are best described as hardy and astute. Even the most humble of brocks know how to pitch a product. As such, many do work as merchants and salesmen, and have the bulk to keep their wares safe. 
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -206,12 +212,13 @@ contributors:
 {: .specie-callout }
 > ## Broodal
 >
-> ![](assets/images/species/broodal.png)
+> ![](../assets/images/species/broodal.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
+>
 > These brutal snobs come from the moon, and hold a reputation for their excellent sense of fashion and decor. Their bark can be just as bad, if not worse, than their bite. And a broodal would NEVER be caught dead without a stylish outfit, armed to the teeth with weaponry.
 >
-> ***+1 Heart**{: heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
@@ -237,10 +244,11 @@ contributors:
 {: .specie-callout }
 > ## Bubblainian
 >
-> ![](assets/images/species/bubblainian.png)
+> ![](../assets/images/species/bubblainian.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
-> These laid-back gastropods are all about one thing: taking it easy. Relaxation is the motto of the bubblainians, and if something comes to disturb their peace, then they’ll put together all their resources to return things to a carefree calm.
+>
+> These laid-back gastropods are all about one thing: taking it easy. Relaxation is the motto of the bubblainians, and if something comes to disturb their peace, then they'll put together all their resources to return things to a carefree calm.
 >
 > ***+2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 1 Defense*{: .text-gamma .header-font }  
@@ -270,12 +278,13 @@ contributors:
 {: .specie-callout }
 > ## Cataquack
 >
-> ![](assets/images/species/cataquack.png)
+> ![](../assets/images/species/cataquack.png)
 > {: .float-right-desktop }
 > From *Super Mario Sunshine*{: .italic }  
-> Cataquacks live idle lives, primarily on the beaches of tropical vistas. Notably, the closer their coloration is to red, the more aggressive they tend to be. Otherwise, they don’t often go looking for trouble, unless it brings itself to their proverbial front door.
 >
-> ***+1 Heart**{: .heart-color }*{: .text-gamma .header-font }  
+> Cataquacks live idle lives, primarily on the beaches of tropical vistas. Notably, the closer their coloration is to red, the more aggressive they tend to be. Otherwise, they don"t often go looking for trouble, unless it brings itself to their proverbial front door.
+>
+> ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
@@ -303,10 +312,11 @@ contributors:
 {: .specie-callout }
 > ## Coconutter
 >
-> ![](assets/images/icons/tipguy.png)
+> ![](../assets/images/species/coconutter.png)
 > {: .float-right-desktop }
 > From *Mario & Luigi: Partners in Time*{: .italic }  
-> Coconutters live deep in jungles and tropics, fostering and growing nature around them. They don’t often take kindly to trespassers!  
+>
+> Coconutters live deep in jungles and tropics, fostering and growing nature around them. They don"t often take kindly to trespassers!  
 > Credit to “Fernikart57” on DeviantArt for the art.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
@@ -336,10 +346,11 @@ contributors:
 {: .specie-callout }
 > ## Cragnon
 >
-> ![](assets/images/species/cragnon.png)
+> ![](../assets/images/species/cragnon.png)
 > {: .float-right-desktop }
 > From *Super Paper Mario*{: .italic }  
-> These technologically advanced cavemen have an odd way of speaking. Though their speech isn’t as intriguing as their Cragnology. Being masters of influencing rock to carry messages and signals, they’ve created a variety of programs to entertain themselves when not on the hunt.
+>
+> These technologically advanced cavemen have an odd way of speaking. Though their speech isn't as intriguing as their Cragnology. Being masters of influencing rock to carry messages and signals, they've created a variety of programs to entertain themselves when not on the hunt.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -367,10 +378,11 @@ contributors:
 
 {: .specie-callout }
 > ## Emoglobin
-> ![](assets/images/species/emoglobin.png)
+> ![](../assets/images/species/emoglobin.png)
 > {: .float-right-desktop }
 > From *Mario & Luigi: Bowser's Inside Story*{: .italic }  
-> Emoglobin are bizarre little antibodies that typically take up important functions in one’s body. How they gain larger size, and how they escape their host bodies, is greatly unknown. What is known is that they excel at using their restorative properties to aid those around them. Just… don’t ask where its healing comes from.
+>
+> Emoglobin are bizarre little antibodies that typically take up important functions in one's body. How they gain larger size, and how they escape their host bodies, is greatly unknown. What is known is that they excel at using their restorative properties to aid those around them. Just.. don’t ask where its healing comes from.
 >
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
 > *0 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -400,7 +412,7 @@ contributors:
 {: .specie-callout }
 > ## Fronk (WIP)
 >
-> ![](assets/images/species/fronk.png)
+> ![](../assets/images/species/fronk.png)
 > {: .float-right-desktop }
 > A description of the Species and how they fit into the world. These descriptions are simple and general, and do not define individual members of their Species.
 >
@@ -436,9 +448,10 @@ contributors:
 {: .specie-callout }
 > ## Fake Block
 >
-> ![](assets/images/species/fake_block.png)
+> ![](../assets/images/species/fake_block.png)
 > {: .float-right-desktop }
 > From *Super Mario 3D Land*{: .italic }  
+>
 > Sometimes, a block containing a power-up becomes suffused with the power in the item. This gives the block a spark of life, allowing it to move and use its powers to its own benefit.
 >
 > ***+2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -451,7 +464,7 @@ contributors:
 > > *+ Steady (Power-Ups)*{: .courage-color }  
 > > Start with one Power-Up or Item worth 50 Coins or less  
 > > Latent (Chosen Item/Power-Up)  
-> > *For **5 FP**{: .spirit-color }: Activate the effect of your chosen Power-Up or Item (in the case of the Power-Up, you have to target yourself)*{: .mgl .fs-3 }.
+> > *For **5 FP**{: .spirit-color }: Activate the effect of your chosen Power-Up or Item (in the case of the Power-Up, you have to target yourself)*{: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -477,9 +490,10 @@ contributors:
 {: .specie-callout }
 > ## Gearmo
 >
-> ![](assets/images/species/gearmo.png)
+> ![](../assets/images/species/gearmo.png)
 > {: .float-right-desktop }
 > From *Super Mario Galaxy*{: .italic }  
+>
 > Gearmos are autonomous janitors, most well equipped for the care and maintenance of machinery. They can be very particular with keeping things clean, and are easily irked when things make their jobs harder.
 >
 > ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -511,9 +525,10 @@ contributors:
 {: .specie-callout }
 > ## Gooble
 >
-> ![](assets/images/species/gooble.png)
+> ![](../assets/images/species/gooble.png)
 > {: .float-right-desktop }
 > From *Super Mario Sunshine*{: .italic }  
+>
 > Goobles come in all colors of the rainbow. Being made of paint, they have a knack for creativity that goes into everything they do.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -548,9 +563,10 @@ contributors:
 {: .specie-callout }
 > ## Gotchawrench
 >
-> ![](assets/images/icons/tipguy.png)
+> ![](../assets/images/species/gotchawrench.png)
 > {: .float-right-desktop }
 > From *Wrecking Crew*{: .italic }  
+>
 > These malignant tools are what happens when a tool goes for too long without use, growing resentful and finding use for themselves. Often, this leads to them causing trouble in order to make problems for them to fix. Despite the name, Gotchawrenches can take the form of most any hardware tool.
 >
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
@@ -581,9 +597,10 @@ contributors:
 {: .specie-callout }
 > ## Gushen
 >
-> ![](assets/images/species/gushen.png)
+> ![](../assets/images/species/gushen.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
+>
 > Gushen are haughty sea creatures, priding themselves on their speed and their 'staches.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -616,9 +633,10 @@ contributors:
 {: .specie-callout }
 > ## Honeybee
 >
-> ![](assets/images/species/honeybee.png)
+> ![](../assets/images/species/honeybee.png)
 > {: .float-right-desktop }
 > From *Super Mario Galaxy*{: .italic }  
+>
 > Honeybees live out fulfilling lives creating honey for their colony, and carrying out the will of their queen. Some may leave their colonies to act as emissaries of their kingdom, or to see what the wider world holds for them.
 >
 > ***+2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -648,7 +666,7 @@ contributors:
 {: .specie-callout }
 > ## Jibberjay
 >
-> ![](assets/images/species/jibberjay.png)
+> ![](../assets/images/species/jibberjay.png)
 > {: .float-right-desktop }
 > These loud-mouthed avians live for the thrill of competition. They make their homes in jungles, where they can find challenging places to race each other.
 >
@@ -679,11 +697,13 @@ contributors:
 {: .specie-callout }
 > ## Li'l Oink
 >
-> ![](assets/images/species/lil_oink.png)
+> ![](../assets/images/species/lil_oink.png)
 > {: .float-right-desktop }
 > From *Paper Mario*{: .italic }  
-> These bespeckled pigs are skittish little things, though are beloved by all for their patterns. They are creatures of chance, happening upon places and things they generally shouldn’t.  
-> Create by *@lonelyazalea*{: .courage-color }
+>
+> These bespeckled pigs are skittish little things, though are beloved by all for their patterns. They are creatures of chance, happening upon places and things they generally shouldn't.  
+>
+> *Created by **@lonelyazalea**{: .courage-color }*{: .fs-3 }
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -712,10 +732,11 @@ contributors:
 {: .specie-callout }
 > ## Mister I
 >
-> ![](assets/images/species/mister_i.png)
+> ![](../assets/images/species/mister_i.png)
 > {: .float-right-desktop }
 > From *Super Mario 64*{: .italic }  
-> Mister Is are incredibly odd beings, being large floating eyeballs. Their disconcerting gaze is described as disturbing by some, and hypnotic by others. Usually, though, you can find them just… float there.
+>
+> Mister Is are incredibly odd beings, being large floating eyeballs. Their disconcerting gaze is described as disturbing by some, and hypnotic by others. Usually, though, you can find them just.. float there.
 >
 > ***+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -746,10 +767,11 @@ contributors:
 {: .specie-callout }
 > ## New Donker
 >
-> ![](assets/images/icons/tipguy.png)
+> ![](../assets/images/icons/tipguy.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
-> Most New Donkers are just trying to get by. They’re usually no-nonsense, but see the importance of taking time to wind down from work.
+>
+> Most New Donkers are just trying to get by. They're usually no-nonsense, but see the importance of taking time to wind down from work.
 >
 > ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -778,10 +800,11 @@ contributors:
 {: .specie-callout }
 > ## Pi'illo
 >
-> ![](assets/images/species/pi_illo.png)
+> ![](../assets/images/species/pi_illo.png)
 > {: .float-right-desktop }
 > From *Mario & Luigi: Dream Team*{: .italic }  
-> The Pi’illo are an ancient people, hailing from Pi’illo Island. Though many are content to stay in their ancestral homes, the dreamy and longing nature of the Pi’illo folk lead them to travel beyond the island’s shores. 
+>
+> The Pi'illo are an ancient people, hailing from Pi'illo Island. Though many are content to stay in their ancestral homes, the dreamy and longing nature of the Pi'illo folk lead them to travel beyond the island's shores. 
 >
 > ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -812,9 +835,10 @@ contributors:
 {: .specie-callout }
 > ## Pixl
 >
-> ![](assets/images/species/pixl.png)
+> ![](../assets/images/species/pixl.png)
 > {: .float-right-desktop }
 > From *Super Paper Mario*{: .italic }  
+>
 > These geometric constructs were created from the spirits of the Game Overed by the shamans, fit into vessels for specific purposes. Though the means of their creation have been lost to all but the eldest of shamans, many still lie in wait in forgotten parts of the world.
 >
 > ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -845,10 +869,11 @@ contributors:
 {: .specie-callout }
 > ## Portrait Ghost
 >
-> ![](assets/images/species/portrait_ghost.png)
+> ![](../assets/images/species/portrait_ghost.png)
 > {: .float-right-desktop }
 > From *Luigi's Mansion*{: .italic }  
-> Portrait ghosts come from portraits of people who’ve died. They’ll often become a mimicry of the person they were painted after, partaking in jobs and routines that the subject did in life.
+>
+> Portrait ghosts come from portraits of people who've died. They'll often become a mimicry of the person they were painted after, partaking in jobs and routines that the subject did in life.
 >
 > ***+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -881,9 +906,10 @@ contributors:
 {: .specie-callout }
 > ## Sammer Guy
 >
-> ![](assets/images/species/sammer_guy.png)
+> ![](../assets/images/species/sammer_guy.png)
 > {: .float-right-desktop }
 > From *Super Paper Mario*{: .italic }  
+>
 > These valiant warriors come from the Sammer Kingdom. Each lives by their own personal code of honor, often finding work as mercenaries. But each guy fights for two things above all: glory for themselves, and for the Sammer Kingdom.
 >
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
@@ -912,9 +938,10 @@ contributors:
 {: .specie-callout }
 > ## Steam Gardener
 >
-> ![](assets/images/species/steam_gardener.png)
+> ![](../assets/images/species/steam_gardener.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
+>
 > Gardening automatons who call the Wooded Kingdom home. Gardeners will often go on pilgrimages to distant lands to learn about new plants, and bring seeds back to their home.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
@@ -945,10 +972,11 @@ contributors:
 {: .specie-callout }
 > ## Shiverian
 >
-> ![](assets/images/species/shiverian.png)
+> ![](../assets/images/species/shiverian.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
-> These racers are as cheerful as their bodies are dense. Their thick fat helps them maneuver around without much use of their tiny legs, and helps them to protect what they care about. They adore friendly competition, and you’d be hard pressed to find a shiverian who backs down from a challenge.
+>
+> These racers are as cheerful as their bodies are dense. Their thick fat helps them maneuver around without much use of their tiny legs, and helps them to protect what they care about. They adore friendly competition, and you'd be hard pressed to find a shiverian who backs down from a challenge.
 >
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -978,10 +1006,11 @@ contributors:
 {: .specie-callout }
 > ## Shroob
 >
-> ![](assets/images/species/shroob.png)
+> ![](../assets/images/species/shroob.png)
 > {: .float-right-desktop }
 > From *Mario & Luigi: Partners in Time*{: .italic }  
-> Shroobs were once a race of fearsome aliens from Planet Shroob. Now, they’ve faced near extinction. The shroobs who still remain are just as shrewd and intelligent as their forefathers, and may one day seek to rise for another takeover. For now, though, they’re content to be just as they are.
+>
+> Shroobs were once a race of fearsome aliens from Planet Shroob. Now, they've faced near extinction. The shroobs who still remain are just as shrewd and intelligent as their forefathers, and may one day seek to rise for another takeover. For now, though, they're content to be just as they are.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -1009,9 +1038,10 @@ contributors:
 {: .specie-callout }
 > ## Tiki
 >
-> ![](assets/images/species/tiki.png)
+> ![](../assets/images/species/tiki.png)
 > {: .float-right-desktop }
 > From *Donkey Kong Country Returns*{: .italic }  
+>
 > Tikis are a proud race of self-made, fruit fueled tribesmen. They possess great talent in music, which they often use to create disorienting and hypnotic songs to gain the upper hand.
 >
 > ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -1043,9 +1073,10 @@ contributors:
 {: .specie-callout }
 > ## Topman
 >
-> ![](assets/images/species/topman.png)
+> ![](../assets/images/species/topman.png)
 > {: .float-right-desktop }
 > From *Super Mario Galaxy*{: .italic }  
+>
 > Topmen are a tribe of spacefaring robots, constantly seeking territory. They often settle clashes by crashing into each other, seeing who falls first. Topmen are often honorable in the art of combat, using the bulk of their body to take down their foes.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -1077,9 +1108,10 @@ contributors:
 {: .specie-callout }
 > ## Tostarenan
 >
-> ![](assets/images/species/tostarenan.png)
+> ![](../assets/images/species/tostarenan.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
+>
 > These fiesta loving skeletons call the sand kingdom home. Though when they leave the sands of Tostarena behind, they always bring the party with them.
 >
 > ***+2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -1111,10 +1143,11 @@ contributors:
 {: .specie-callout }
 > ## Tox Box
 >
-> ![](assets/images/species/tox_box.png)
+> ![](../assets/images/species/tox_box.png)
 > {: .float-right-desktop }
 > From *Super Mario 64*{: .italic }  
-> Tox Boxes follow patterns their whole life, idly rolling about. Unless, of course, something stops them from completing their pattern, in which case they begin to wander around...
+>
+> Tox Boxes follow patterns their whole life, idly rolling about. Unless, of course, something stops them from completing their pattern, in which case they begin to wander around..
 >
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
 > *1 Power, 1 Defense*{: .text-gamma .header-font }  
@@ -1142,11 +1175,12 @@ contributors:
 >
 
 {: .specie-callout }
-> ## Tsubon
+> ## Tsubōn
 >
-> ![](assets/images/species/tsubon.png)
+> ![](../assets/images/species/tsubon.png)
 > {: .float-right-desktop }
 > From *Mario & Wario*{: .italic }  
+>
 > These cursed urns often serve as mindless guards of caverns and temples. Though, there are a few among them who gain a heightened sense of self, setting out to find purpose in the world.
 >
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
@@ -1178,10 +1212,11 @@ contributors:
 {: .specie-callout }
 > ## Twilighter
 >
-> ![](assets/images/species/twilighter.png)
+> ![](../assets/images/species/twilighter.png)
 > {: .float-right-desktop }
 > From *Paper Mario: The Thousand Year Door*{: .italic }  
-> These shady folk prefer the darker corners of the world. Though their disposition may be gloomy, they’re hardy survivors who will stand for the safety of friends and family. Though, they may just take the longer or less noticeable route to success.
+>
+> These shady folk prefer the darker corners of the world. Though their disposition may be gloomy, they're hardy survivors who will stand for the safety of friends and family. Though, they may just take the longer or less noticeable route to success.
 >
 > ***+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -1214,10 +1249,11 @@ contributors:
 {: .specie-callout }
 > ## Uproot
 >
-> ![](assets/images/species/uproot.png)
+> ![](../assets/images/species/uproot.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
-> Uproots dwell in deep forests, creating shells to protect themselves from the elements. Weirdly enough, the shells they make often resemble plant pots...
+>
+> Uproots dwell in deep forests, creating shells to protect themselves from the elements. Weirdly enough, the shells they make often resemble plant pots..
 >
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -1246,9 +1282,10 @@ contributors:
 {: .specie-callout }
 > ## Virus
 >
-> ![](assets/images/species/virus.png)
+> ![](../assets/images/species/virus.png)
 > {: .float-right-desktop }
 > From *Dr. Mario*{: .italic }  
+>
 > Viruses are naughty little creatures, most often set to inflict their ails on whoever they come across. Even so, when faced with threats much greater than one of their own, their camaraderie is second to none, joining forces to take on tough foes.
 >
 > ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
@@ -1279,11 +1316,13 @@ contributors:
 {: .specie-callout }
 > ## Volbonan
 >
-> ![](assets/images/species/volbonan.png)
+> ![](../assets/images/species/volbonan.png)
 > {: .float-right-desktop }
 > From *Super Mario Odyssey*{: .italic }  
+>
 > These expert chefs call the Luncheon Kingdom home. The travelers amongst them are always searching for new flavors for their dishes, and new meals to sample. Wherever a Volbonan goes, tasty food is sure to follow.  
-> Credit to "Lwiis64" on DeviantArt for the art.
+>
+> *Credit to "Lwiis64" on DeviantArt for the art.*{: .fs-3 }  
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -1312,9 +1351,10 @@ contributors:
 {: .specie-callout }
 > ## Whittle
 >
-> ![](assets/images/species/whittle.png)
+> ![](../assets/images/species/whittle.png)
 > {: .float-right-desktop }
 > From *Super Mario Galaxy 2*{: .italic }  
+>
 > Whittles are tree spirits, well known the world over for their bravery and pride. Though they may be lacking in conversation skills, a whittle is a stalwart friend, dedicated to whatever they may deem their cause to be.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  

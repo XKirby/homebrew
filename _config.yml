@@ -62,14 +62,15 @@ url: "https://paperstoryttrpg.github.io"
 # color_scheme: light
 color_scheme: pm
 aux_links:
+  - name: "Ruleset"
+    url: "https://paperstoryttrpg.github.io/en"
+    new_tab: true
   - name: "Itch.io"
     url: "https://joy-games.itch.io/paper-story/"
     new_tab: true
   - name: "Discord"
     url: "https://discord.com/invite/AACjkG7u3E"
     new_tab: true
-  - name: "Ruleset"
-    url: "https://paperstoryttrpg.github.io/en"
 
 aux_links_new_tab: false
 
