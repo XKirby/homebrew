@@ -21,8 +21,7 @@ jobs:
 
       # Use GitHub Deploy Action to build and deploy to Github
       # For latest version: `jeffreytse/jekyll-deploy-action@master`
-      # - uses: jeffreytse/jekyll-deploy-action@v0.5.1
-      - uses: MeixDev/jekyll-deploy-action@bcb81f9f8898c246b6b6e5c0981e77b82947fdc4
+      - uses: jeffreytse/jekyll-deploy-action@v0.5.1
         with:
           provider: "github" # Default is github
           token: ${{ secrets.GH_TOKEN }} # It's your Personal Access Token(PAT)
