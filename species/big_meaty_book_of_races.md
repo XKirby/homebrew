@@ -27,9 +27,9 @@ contributors:
 
 {: .specie-callout }
 > ## Armad
-> ![](..assets/images/species/armad.png)
+> ![](../assets/images/species/armad.png)
 > {: .float-right-desktop }
-> From *Super Mario Bros. Wonder*{: .italic }
+> From *Super Mario Bros. Wonder*{: .italic }  
 >
 > These hardy desert wanderers stomp around in search of water. They live long lives, and have longer memories to go with it.
 >
@@ -40,12 +40,12 @@ contributors:
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Athletics (Rolling)*{: .heart-color }  
 > > *+ Knowhow (Desert)*{: .spirit-color }  
-> > *+ Knowhow (History)*{: .spirit-color } 
+> > *+ Knowhow (History)*{: .spirit-color }  
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
-> > Weakness (Aerial)
+> > Handless  
+> > Weakness (Aerial)  
 > > *You automatically retract into your shell; This leaves you completely Stunned (6) for the next 2 turns. If you are attacked from the front during this time, you knock into the ally behind you, dealing 2 damage to them, and ending your Stunned status.*{: .mgl .fs-3 }
 > 
 > {: .specie-inner-callout }
@@ -53,7 +53,7 @@ contributors:
 > >
 > > Boost (Defense)  
 > > *Indirect*{: .alt-grey-line }  
-> > Secure 
+> > Secure  
 > > *Simple*{: .alt-grey-line }  
 > >  
 >  
@@ -84,10 +84,10 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Boost (Defense)  
+> > Boost (Attack)  
 > > *Indirect*{: .alt-grey-line }  
-> > Secure  
-> > *Simple*{: .alt-grey-line }  
+> > Minion  
+> > *Weaken*{: .alt-grey-line }  
 > >
 >
 
