@@ -198,7 +198,7 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Burst
+> > Burst  
 > > *Element (Sound)*{: .alt-grey-line }  
 > > Piercing  
 > > *Ranged*{: .alt-grey-line }  
