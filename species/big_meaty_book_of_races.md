@@ -26,6 +26,39 @@ contributors:
 {: .center-img }
 
 {: .specie-callout }
+> ## Armad
+> ![](../assets/images/species/armad.png)
+> > {: .float-right-desktop }
+> From *Super Mario Bros. Wonder*{: .italic }
+>
+> These hardy desert wanderers stomp around in search of water. They live long lives, and have longer memories to go with it.
+>
+> ***+2 Heart**{: .heart-color}*{: .text-gamma .header-font }
+> *1 Power, 1 Defense*{: .text-gamma .header-font }
+>
+>  {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Rolling)*{: .heart-color }  
+> > *+ Knowhow (Desert)*{: .spirit-color }  
+> > *+ Knowhow (History)*{: .spirit-color } 
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+> > Weakness (Aerial)
+> > *You automatically retract into your shell; This leaves you completely Stunned (6) for the next 2 turns. If you are attacked from the front during this time, you knock into the ally behind you, dealing 2 damage to them, and ending your Stunned status.*
+> 
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Boost (Attack)  
+> > *Indirect*{: .alt-grey-line }  
+> > Minion  
+> > *Weaken*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
 > ## Baddie Box
 >
 > ![](../assets/images/species/baddie_box.png)
@@ -51,10 +84,10 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Boost (Attack)  
+> > Boost (Defense)
 > > *Indirect*{: .alt-grey-line }  
-> > Minion  
-> > *Weaken*{: .alt-grey-line }  
+> > Secure  
+> > *Simple*{: .alt-grey-line }  
 > >
 >
 
