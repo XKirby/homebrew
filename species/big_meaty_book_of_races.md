@@ -54,7 +54,8 @@ contributors:
 > > Boost (Defense)  
 > > *Indirect*{: .alt-grey-line }  
 > > Secure  
-> > *Simple*{: .alt-grey-line }  
+> > *Simple*{: .alt-grey-line }
+> > 
 > >  *Optional:*{: .underlined } Variant (*Athletics - Primary Only*{: .heart-color }) on Indirect attacks. 
 >  
 
@@ -155,7 +156,7 @@ contributors:
 > > *By spending **2 FP**{: .spirit-color }, you can attempt to possess an enemy. This is considered a Charm technique that uses *Athletics*{: .heart-color }.*{: .mgl .fs-3 }  
 > > *An enemy Charmed in this way takes your place in combat, and you must use your action to maintain the Charm. While you have an enemy charmed in this way, any damage the enemy would take is inflicted on you instead. You can maintain this Charm for a number of turns per grade of success.*{: .mgl .fs-3 }  
 > > ***Nice!**{: .nice-color }: 1 turn*{: .mgl-big .fs-3 }  
-> > ***Great!**{: .great-color }: 2 turns*{: .mgl-big .fs-3 }  
+> > ***Good!**{: .good-color }: 2 turns*{: .mgl-big .fs-3 }  
 > > ***Great!**{: .great-color }: 3 turns*{: .mgl-big .fs-3 }  
 > > ***Wonderful!**{: .wonderful-color }: 4 turns*{: .mgl-big .fs-3 }  
 > > ***Excellent!**{: .excellent-color }: 5 turns*{: .mgl-big .fs-3 }  
@@ -168,6 +169,37 @@ contributors:
 > > *Daze x2*{: .alt-grey-line }  
 > > Disorient  
 > > *Throw*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
+> ## Boomboxer
+>
+> ![](../assets/images/species/boomboxer.png)
+> {: .float-right-desktop }
+> These bizarre creatures have boombox-like protrusions sticking out of their heads. It's unclear if they make loud noises out of self-defense or because they like it, but they make good companions if you can handle their sudden outbursts.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }   
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Notice (Noise)*{: .spirit-color }  
+> > *+ Bully (Deafening)*{: .courage-color }
+> > *+ Perform (Music)*{: .courage-color }{: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Blast)
+> > *You take +2 damage and are Stunned (1) for the number of turns equal to the damage taken.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Burst
+> > *Element (Sound)*{: .alt-grey-line }  
+> > Piercing  
+> > *Ranged*{: .alt-grey-line }  
 > >
 >
 
