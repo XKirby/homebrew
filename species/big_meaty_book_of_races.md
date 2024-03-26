@@ -27,7 +27,7 @@ contributors:
 
 {: .specie-callout }
 > ## Armad
-> ![](../assets/images/species/armad.png)
+> ![](..)
 > > {: .float-right-desktop }
 > From *Super Mario Bros. Wonder*{: .italic }
 >
