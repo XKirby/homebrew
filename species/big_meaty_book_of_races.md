@@ -27,7 +27,7 @@ contributors:
 
 {: .specie-callout }
 > ## Armad
-> ![](..)
+> ![](..assets/images/species/armad.png)
 > > {: .float-right-desktop }
 > From *Super Mario Bros. Wonder*{: .italic }
 >
@@ -46,15 +46,15 @@ contributors:
 > > *Cons*{: .text-gamma .header-font }  
 > > Handless
 > > Weakness (Aerial)
-> > *You automatically retract into your shell; This leaves you completely Stunned (6) for the next 2 turns. If you are attacked from the front during this time, you knock into the ally behind you, dealing 2 damage to them, and ending your Stunned status.*
+> > *You automatically retract into your shell; This leaves you completely Stunned (6) for the next 2 turns. If you are attacked from the front during this time, you knock into the ally behind you, dealing 2 damage to them, and ending your Stunned status.*{: .mgl .fs-3 }
 > 
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
 > > Boost (Attack)  
 > > *Indirect*{: .alt-grey-line }  
-> > Minion  
-> > *Weaken*{: .alt-grey-line }  
+> > Secure 
+> > *Simple*{: .alt-grey-line }  
 > >
 >
 
