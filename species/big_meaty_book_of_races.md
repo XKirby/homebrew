@@ -55,7 +55,7 @@ contributors:
 > > *Indirect*{: .alt-grey-line }  
 > > Secure  
 > > *Simple*{: .alt-grey-line }  
-> >  
+> >  *Optional:*{: .underlined } Variant (*Athletics - Primary Only*{: .heart-color }) on Indirect attacks. 
 >  
 
 {: .specie-callout }
@@ -63,7 +63,7 @@ contributors:
 >
 > ![](../assets/images/species/baddie_box.png)
 > {: .float-right-desktop }
-> From *Super Mario 3D Land*{: .italic }, *Super Mario 3D World*{: .italic }  
+> From *Super Mario 3D Land*{: .italic }  
 >
 > These bizarre blocks are capable of continuously conjuring enemies from within themselves. They have been seen conjuring other objects as well, but mooks and minions appear to be their specialty.
 >
@@ -153,7 +153,7 @@ contributors:
 > > *Other Traits*{: .text-gamma .header-font }  
 > > State (Capture)  
 > > *By spending **2 FP**{: .spirit-color }, you can attempt to possess an enemy. This is considered a Charm technique that uses *Athletics*{: .heart-color }.*{: .mgl .fs-3 }  
-> > *An enemy Charmed in this way takes your place in combat, and you must use your action to maintain the Charm. You can maintain this Charm for a number of turns per grade of success.*{: .mgl .fs-3 }  
+> > *An enemy Charmed in this way takes your place in combat, and you must use your action to maintain the Charm. While you have an enemy charmed in this way, any damage the enemy would take is inflicted on you instead. You can maintain this Charm for a number of turns per grade of success.*{: .mgl .fs-3 }  
 > > ***Nice!**{: .nice-color }: 1 turn*{: .mgl-big .fs-3 }  
 > > ***Great!**{: .great-color }: 2 turns*{: .mgl-big .fs-3 }  
 > > ***Great!**{: .great-color }: 3 turns*{: .mgl-big .fs-3 }  
@@ -176,7 +176,7 @@ contributors:
 >
 > ![](../assets/images/species/bramball.png)
 > {: .float-right-desktop }
-> From *New Super Mario Bros. Wii*{: .italic }, *New Super Mario Bros. U*{: .italic }  
+> From *New Super Mario Bros. Wii*{: .italic }  
 >
 > The humble bramball strolls from place to place, not paying much mind to what's in its way, or where it's going. Many would describe a bramball as amicable, though not much for conversation, and being marvelous helps when in need of a quick pick-me-up.
 >
@@ -212,7 +212,7 @@ contributors:
 >
 > ![](../assets/images/species/brock.png)
 > {: .float-right-desktop }
-> From *Mario & Luigi: Bowser's Inside Story*{: .italic }, *Mario & Luigi: Dream Team*{: .italic }  
+> From *Mario & Luigi: Bowser's Inside Story*{: .italic }  
 >
 > Brocks are best described as hardy and astute. Even the most humble of brocks know how to pitch a product. As such, many do work as merchants and salesmen, and have the bulk to keep their wares safe. 
 >
@@ -230,7 +230,7 @@ contributors:
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Underfoot)  
-> > *You are Dazed (1) for a number of turns equal to the damage dealt, and lose 1 coin.*{: .mgl .fs-3 }  
+> > *You are Dazed (1) for a number of turns equal to the damage dealt, and lose 1 coin per point of damage.*{: .mgl .fs-3 }  
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -392,7 +392,7 @@ contributors:
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Coordination (Weapons)*{: .heart-color }  
 > > *+ Knowhow (Rocks)*{: .spirit-color }  
-> > *or **+ Knowhow (Tracking)**{: .spirit-color }*{: .mgl }  
+> > *or **+ Notice (Tracking)**{: .spirit-color }*{: .mgl }  
 > > *+ Perform (Acting)*{: .courage-color }
 >
 > {: .specie-cons-callout }
@@ -435,47 +435,11 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > All  
-> > *Boost*{: .alt-grey-line }  
-> > Dismiss  
+> > Boost 
+> > *Dismiss*{: .alt-grey-line } 
+> > Group
 > > *Hearty x2*{: .alt-grey-line }  
 > >
->
-
-{: .specie-callout }
-> ## Fronk (WIP)
->
-> ![](../assets/images/species/fronk.png)
-> {: .float-right-desktop }
-> A description of the Species and how they fit into the world. These descriptions are simple and general, and do not define individual members of their Species.
->
-> *Stat Modifiers*{: .text-gamma .header-font }  
-> *1 Power, 0 Defense*{: .text-gamma .header-font }  
->
-> {: .specie-pros-callout }
-> > *Pros*{: .text-gamma .header-font }  
-> > The Skill Specialisations and other Traits that make denizens of that Species more capable.  
-> > *Some Traits, like Immune, will be described in more detail like this.*{: .mgl .fs-3 }
->
-> {: .specie-cons-callout }
-> > *Cons*{: .text-gamma .header-font }  
-> > The Traits that a character of that Species have to deal with that are generally less desirable.  
-> > *Some Traits, like Weakness, will be described in more detail like this.*{: .mgl .fs-3 }
->
-> {: .specie-inner-callout }
-> > *Other Traits*{: .text-gamma .header-font }  
-> > Any other qualities the species has that may not fit neatly into a Pro or a Con go here in one large block underneath Pros and Cons.  
-> > Most often this is for Species with a State Trait, which grants them contextual bonuses/penalties.
->
-> {: .specie-inner-callout }
-> > *Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Example Tech 1  
-> > *Example Tech 2*{: .alt-grey-line }  
-> > Example Tech 3  
-> > *Example Tech 2*{: .alt-grey-line }  
-> >
-> > Any *Required*{: .underlined } or *Optional*{: .underlined } effects are listed underneath, and can (or must) be taken in addition to Tech Defaults.
 >
 
 {: .specie-callout }
@@ -514,10 +478,43 @@ contributors:
 > > *Two of the following*{: .underlined }:  
 > > Counter  
 > > *Lingering x2*{: .alt-grey-line }  
-> > Indirect, Element (Any, related to chosen Power-Up or Item)  
+> > Indirect  
 > > *Ranged, Element (Any, related to chosen Power-Up or Item)*{: .alt-grey-line }  
 > > Aquatic, Carrier, or Hover (as a Personal Trait)
 > >
+>
+
+{: .specie-callout }
+> ## Fronk
+>
+> ![](../assets/images/species/fronk.png)
+> {: .float-right-desktop }
+> Fronks are bizarre little creatures found in most urban areas. They have an innate connection with technology, which can often put them into precarious situations when investigating machines.  
+>
+> ***+2 Spirit**{: .spirit-color }{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }
+> > *+ Magic (Technology)*{: .spirit-color }  
+> > *+ Knowhow (Hacking)*{: .spirit-color }
+> > *+ Trickery (Stealth)*{: .spirit-color }
+> > Clones (Copies)  
+> > Efficient (Technology){: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Air)
+> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Repeat  
+> > *Simple*{: .alt-grey-line }  
+> > Selective  
+> > *Tool*{: .alt-grey-line }  
+> >  
 >
 
 {: .specie-callout }
