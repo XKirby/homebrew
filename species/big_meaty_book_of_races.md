@@ -178,6 +178,8 @@ contributors:
 > ![](../assets/images/species/boomboxer.png)
 > {: .float-right-desktop }
 > These bizarre creatures have boombox-like protrusions sticking out of their heads. It's unclear if they make loud noises out of self-defense or because they like it, but they make good companions if you can handle their sudden outbursts.
+> 
+> *Created by **@piyohthegenius**{: .courage-color }*{: .fs-3 }
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }   
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
