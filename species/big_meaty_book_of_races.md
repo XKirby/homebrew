@@ -51,7 +51,7 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Boost (Attack)  
+> > Boost (Defense)  
 > > *Indirect*{: .alt-grey-line }  
 > > Secure 
 > > *Simple*{: .alt-grey-line }  
@@ -84,7 +84,7 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Boost (Defense)
+> > Boost (Defense)  
 > > *Indirect*{: .alt-grey-line }  
 > > Secure  
 > > *Simple*{: .alt-grey-line }  
