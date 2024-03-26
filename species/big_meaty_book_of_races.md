@@ -28,7 +28,7 @@ contributors:
 {: .specie-callout }
 > ## Armad
 > ![](..assets/images/species/armad.png)
-> > {: .float-right-desktop }
+> {: .float-right-desktop }
 > From *Super Mario Bros. Wonder*{: .italic }
 >
 > These hardy desert wanderers stomp around in search of water. They live long lives, and have longer memories to go with it.
