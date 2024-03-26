@@ -648,6 +648,8 @@ contributors:
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Handless
+> > Weakness (Heatwave/Lava)
+> > *You cannot use your fly or hover personal traits in battles where either of these conditions are present, unless there is a nearby source of water.*
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -674,7 +676,7 @@ contributors:
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Heal (Honey)*{: .heart-color }  
+> > *+ Heal (Syrup)*{: .heart-color }  
 > > *+ Trickery (Dodge)*{: .spirit-color }  
 > > *+ Steady (Orderly)*{: .courage-color }  
 > > Fly
@@ -752,10 +754,10 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > All, Confuse  
-> > *Roulette (**-2 FP**{: .spirit-color } on each Roulette Slot)*{: .alt-grey-line }  
-> > Lucky Hit, Fumble (-4 FP on the Lucky Slot)  
-> > *Coin Toss (**-3 FP**{: .spirit-color } on each Coin Slot)*{: .alt-grey-line }  
+> > All  
+> > *Roulette (**-2 FP**{: .spirit-color } on one Roulette Slot)*{: .alt-grey-line }  
+> > Lucky Hit, Fumble (-3 FP on the Lucky Slot)  
+> > *Coin Toss (**-3 FP**{: .spirit-color } on one Coin Slot)*{: .alt-grey-line }  
 > >
 >
 
@@ -845,7 +847,6 @@ contributors:
 > > *+ Magic (Dreams)*{: .spirit-color }  
 > > *+ Cheer (Inspire)*{: .courage-color }  
 > > Hover  
-> > Immune (Dazed)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -975,7 +976,7 @@ contributors:
 > Gardening automatons who call the Wooded Kingdom home. Gardeners will often go on pilgrimages to distant lands to learn about new plants, and bring seeds back to their home.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
-> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
@@ -994,7 +995,8 @@ contributors:
 > >
 > > Dismiss  
 > > *Flowery*{: .alt-grey-line }  
-> > Ranged  
+> > Ranged
+> > *Spillover*{: .alt-grey-line } 
 > >
 > > *Optional*{: .underlined }: Element (Water) on Ranged attacks
 >
@@ -1040,7 +1042,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Mario & Luigi: Partners in Time*{: .italic }  
 >
-> Shroobs were once a race of fearsome aliens from Planet Shroob. Now, they've faced near extinction. The shroobs who still remain are just as shrewd and intelligent as their forefathers, and may one day seek to rise for another takeover. For now, though, they're content to be just as they are.
+> Shroobs were once a race of fearsome aliens from Planet Shroob. Now, they've faced near extinction. The shroobs who still remain are just as shrewd and intelligent as their forefathers, and may one day seek to rise for another takeover...
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -1231,10 +1233,10 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Ranged  
 > > *Lingering x2*{: .alt-grey-line }  
-> > Piercing  
-> > *Repeat*{: .alt-grey-line }  
+> > Piercing
+> > *Ranged*{: .alt-grey-line }  
+> > Repeat  
 > >
 > > *Optional*{: .underlined }: Element (Any) on Ranged attacks. (Must be decided at character creation)
 >
@@ -1388,7 +1390,7 @@ contributors:
 > Whittles are tree spirits, well known the world over for their bravery and pride. Though they may be lacking in conversation skills, a whittle is a stalwart friend, dedicated to whatever they may deem their cause to be.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
-> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
@@ -1408,6 +1410,6 @@ contributors:
 > > Aerial  
 > > *Hearty x2*{: .alt-grey-line }  
 > > Overrun  
-> > *Spillover*{: .alt-grey-line }  
+> > *Strike-Through x2*{: .alt-grey-line }  
 > >
 >
