@@ -33,7 +33,7 @@ contributors:
 >
 > These hardy desert wanderers stomp around in search of water. They live long lives, and have longer memories to go with it.
 >
-> ***+2 Heart**{: .heart-color}*{: .text-gamma .header-font }
+> ***+2 Heart**{: .heart-color}*{: .text-gamma .header-font }  
 > *1 Power, 1 Defense*{: .text-gamma .header-font }
 >
 >  {: .specie-pros-callout }
@@ -55,8 +55,8 @@ contributors:
 > > *Indirect*{: .alt-grey-line }  
 > > Secure 
 > > *Simple*{: .alt-grey-line }  
-> >
->
+> >  
+>  
 
 {: .specie-callout }
 > ## Baddie Box
