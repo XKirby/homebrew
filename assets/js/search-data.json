@@ -1,0 +1,359 @@
+{"0": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Big Meaty Book of Races",
+    "content": ". | Armad | Baddie Box | Blockstepper | Bonnetter | Boomboxer | Bramball | Brock | Broodal | Bubblainian | Bulrush (WIP) | Cataquack | Coconutter | Cragnon | Emoglobin | Fake Block | Fronk | Gearmo | Gooble | Gotchawrench | Gushen | Honeybee | Jibberjay | Li'l Oink | Mister I | New Donker | Pi'illo | Pixl | Portrait Ghost | Sammer Guy | Steam Gardener | Shiverian | Shroob | Tiki | Topman | Tostarenan | Tox Box | Tsubon | Twilighter | Uproot | Virus | Volbonan | Whittle | . ",
+    "url": "/homebrew/species/big_meaty_book_of_races",
+    
+    "relUrl": "/species/big_meaty_book_of_races"
+  },"1": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Armad",
+    "content": ". From Super Mario Bros. Wonder . These hardy desert wanderers stomp around in search of water. They live long lives, and have longer memories to go with it. +2 Heart 1 Power, 1 Defense . Pros + Athletics (Rolling) + Knowhow (Desert) + Knowhow (History) . Cons Handless Weakness (Aerial) You automatically retract into your shell; This leaves you completely Stunned (6) for the next 2 turns. If you are attacked from the front during this time, you knock into the ally behind you, dealing 2 damage to them, and ending your Stunned status. Tech Defaults . Boost (Defense) Indirect Secure Simple . Optional: Variant (Athletics - Primary Only) on Indirect attacks. ",
+    "url": "/homebrew/species/big_meaty_book_of_races#armad",
+    
+    "relUrl": "/species/big_meaty_book_of_races#armad"
+  },"2": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Baddie Box",
+    "content": ". From Super Mario 3D Land . These bizarre blocks are capable of continuously conjuring enemies from within themselves. They have been seen conjuring other objects as well, but mooks and minions appear to be their specialty. +1 Heart, +1 Spirit 1 Power, 1 Defense . Pros + Guard (Melee) + Magic (Conjuring) + Steady (VS Status) Efficient (Minions) . Cons Handless . Tech Defaults . Boost (Attack) Indirect Minion Weaken . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#baddie-box",
+    
+    "relUrl": "/species/big_meaty_book_of_races#baddie-box"
+  },"3": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Blockstepper",
+    "content": ". From Super Mario 3D World . Blocksteppers are nothing if not team players. Always marching at least in pairs, you'd be hard pressed to find a blockstepper without at least one staunch ally by their side. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Coordination (Marching) + Notice (Hiding) + Cheer (Rally Together) . Cons Handless . Tech Defaults . Boost (Any) Minion (Blocksteppers) Repeat Shared . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#blockstepper",
+    
+    "relUrl": "/species/big_meaty_book_of_races#blockstepper"
+  },"4": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Bonnetter",
+    "content": ". From Super Mario Odyssey . Bonnetters travel the world wide via airships of their likeness. They have an impeccable sense of fashion, and none would dare chastise a bonneeter's opinion on attire. Credit to @deuceblitz and @lucydndprincess on DIscord for help with the capture State. +1 Spirit 1 Power, 0 Defense . Pros + Crafts (Vehicles) or + Crafts (Headwar) + Knowhow (Style) + Persuade (Sales) Hover . Cons N/A . Other Traits State (Capture) By spending 2 FP, you can attempt to possess an enemy. This is considered a Charm technique that uses *Athletics.{: .mgl .fs-3 } *An enemy Charmed in this way takes your place in combat, and you must use your action to maintain the Charm. While you have an enemy charmed in this way, any damage the enemy would take is inflicted on you instead. You can maintain this Charm for a number of turns per grade of success. Nice!: 1 turn Good!: 2 turns Great!: 3 turns Wonderful!: 4 turns Excellent!: 5 turns Unbelievable!: 6 turns . Tech Defaults . Aerial Daze x2 Disorient Throw . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#bonnetter",
+    
+    "relUrl": "/species/big_meaty_book_of_races#bonnetter"
+  },"5": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Boomboxer",
+    "content": ". These bizarre creatures have boombox-like protrusions sticking out of their heads. It's unclear if they make loud noises out of self-defense or because they like it, but they make good companions if you can handle their sudden outbursts. Created by @piyohthegenius . +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Notice (Noise) + Bully (Deafening) + Perform (Music) . Cons Weakness (Blast) You take +2 damage and are Stunned (1) for the number of turns equal to the damage taken. Tech Defaults . Burst Element (Sound) Piercing Ranged . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#boomboxer",
+    
+    "relUrl": "/species/big_meaty_book_of_races#boomboxer"
+  },"6": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Bramball",
+    "content": ". From New Super Mario Bros. Wii . The humble bramball strolls from place to place, not paying much mind to what's in its way, or where it's going. Many would describe a bramball as amicable, though not much for conversation, and being marvelous helps when in need of a quick pick-me-up. +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Coordination (Stomping) + Knowhow (Flora) + Cheer (FP) Contact The attacker takes 1 damage, and you make a Steady check; the attacker is Dazed for 1 turn per Grade of Success. Cons Handless Weakness (Aerial, Underfoot) Aerial and Underfoot attacks ignore your Contact trait . Tech Defaults . Flowery Overrun Piercing Selective, Indirect . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#bramball",
+    
+    "relUrl": "/species/big_meaty_book_of_races#bramball"
+  },"7": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Brock",
+    "content": ". From Mario &amp; Luigi: Bowser's Inside Story . Brocks are best described as hardy and astute. Even the most humble of brocks know how to pitch a product. As such, many do work as merchants and salesmen, and have the bulk to keep their wares safe. +1 Heart, +1 Courage 1 Power, 1 Defense . Pros + Guard (Ranged) + Persuade (Sales) + Steady (Etiquette) 1 Resist (Ranged) + ½ starting coins . Cons Weakness (Underfoot) You are Dazed (1) for a number of turns equal to the damage dealt, and lose 1 coin per point of damage. Tech Defaults . Alternative (Coins) Boost (Defense) Charm Hearty x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#brock",
+    
+    "relUrl": "/species/big_meaty_book_of_races#brock"
+  },"8": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Broodal",
+    "content": ". From Super Mario Odyssey . These brutal snobs come from the moon, and hold a reputation for their excellent sense of fashion and decor. Their bark can be just as bad, if not worse, than their bite. And a broodal would NEVER be caught dead without a stylish outfit, armed to the teeth with weaponry. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Jump) + Knowhow (High Society) + Steady (Etiquette) . Cons N/A . Tech Defaults . Aerial Repeat Sequential Tool (Ranged) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#broodal",
+    
+    "relUrl": "/species/big_meaty_book_of_races#broodal"
+  },"9": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Bubblainian",
+    "content": ". From Super Mario Odyssey . These laid-back gastropods are all about one thing: taking it easy. Relaxation is the motto of the bubblainians, and if something comes to disturb their peace, then they'll put together all their resources to return things to a carefree calm. +2 Courage 1 Power, 1 Defense . Pros + Athletics (Guard) + Cheer (Relaxation) + Perform (Instruments) Aquatic . Cons Weakness (Earth) You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken. Tech Defaults . Allies Boost (Defense) Charm Flowery . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#bubblainian",
+    
+    "relUrl": "/species/big_meaty_book_of_races#bubblainian"
+  },"10": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Bulrush (WIP)",
+    "content": ". Bulrush are typically placid beasts roaming the grasslands of the world. But placid doesn’t mean harmless! They charge at each other as a greeting, which often leads many to be on the pointy end of their horns, warranted or not. +2 Heart 2 Power, 0 Defense . Pros + Athletics (Charge){: .heart-color } *+ Guard (Melee){: .heart-color } *+ Bully (Shove) . Cons Weakness (Charm/Confuse/Provoke) The Level and Duration of any of these Statuses inflicted on you is doubled. Other Traits Any other qualities the species has that may not fit neatly into a Pro or a Con go here in one large block underneath Pros and Cons. Most often this is for Species with a State Trait, which grants them contextual bonuses/penalties. Tech Defaults . Example Tech 1 Example Tech 2 Example Tech 3 Example Tech 2 . Any Required or Optional effects are listed underneath, and can (or must) be taken in addition to Tech Defaults. ",
+    "url": "/homebrew/species/big_meaty_book_of_races#bulrush-wip",
+    
+    "relUrl": "/species/big_meaty_book_of_races#bulrush-wip"
+  },"11": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Cataquack",
+    "content": ". From Super Mario Sunshine . Cataquacks live idle lives, primarily on the beaches of tropical vistas. Notably, the closer their coloration is to red, the more aggressive they tend to be. Otherwise, they don\"t often go looking for trouble, unless it brings itself to their proverbial front door. +2 Heart 1 Power, 0 Defense . Pros + Athletics (Run) + Athletics (Flipping) + Bully (Shove) . Cons Handless Weakness (Water) You are flipped over, Dazed (1) for a number of turns equal to the damage dealt. Tech Defaults . Launch Sequential Throw Underfoot . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#cataquack",
+    
+    "relUrl": "/species/big_meaty_book_of_races#cataquack"
+  },"12": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Coconutter",
+    "content": ". From Mario &amp; Luigi: Partners in Time . Coconutters live deep in jungles and tropics, fostering and growing nature around them. They don\"t often take kindly to trespassers! Credit to “Fernikart57” on DeviantArt for the art. +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Crafts (Tools) + Knowhow (Nature) + Perform (Chanting) . Cons Weakness (Fire) You take +2 damage and suffer from a Lingering burn, lasting a number of turns equal to the damage taken. Tech Defaults . Hearty x2 Lingering (Poison) Terrain (Rain) Tool . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#coconutter",
+    
+    "relUrl": "/species/big_meaty_book_of_races#coconutter"
+  },"13": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Cragnon",
+    "content": ". From Super Paper Mario . These technologically advanced cavemen have an odd way of speaking. Though their speech isn't as intriguing as their Cragnology. Being masters of influencing rock to carry messages and signals, they've created a variety of programs to entertain themselves when not on the hunt. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Coordination (Weapons) + Knowhow (Rocks) or + Notice (Tracking) + Perform (Acting) . Cons N/A . Tech Defaults . Boost (Defense) Daze x2 Strike-Through Tool . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#cragnon",
+    
+    "relUrl": "/species/big_meaty_book_of_races#cragnon"
+  },"14": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Emoglobin",
+    "content": ". From Mario &amp; Luigi: Bowser's Inside Story . Emoglobin are bizarre little antibodies that typically take up important functions in one's body. How they gain larger size, and how they escape their host bodies, is greatly unknown. What is known is that they excel at using their restorative properties to aid those around them. Just.. don’t ask where its healing comes from. +2 Heart 0 Power, 0 Defense . Pros + Heal (First Aid) + Knowhow (Biology) + Steady (VS Status) Hover Efficient (First Aid) . Cons Handless . Tech Defaults . Boost Dismiss Group Hearty x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#emoglobin",
+    
+    "relUrl": "/species/big_meaty_book_of_races#emoglobin"
+  },"15": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Fake Block",
+    "content": ". From Super Mario 3D Land . Sometimes, a block containing a power-up becomes suffused with the power in the item. This gives the block a spark of life, allowing it to move and use its powers to its own benefit. +2 Courage 1 Power, 0 Defense . Pros + Crafts (Power-Ups) + Trickery (Blend In) + Steady (Power-Ups) Start with one Power-Up or Item worth 50 Coins or less Latent (Chosen Item/Power-Up) For 5 FP: Activate the effect of your chosen Power-Up or Item (in the case of the Power-Up, you have to target yourself) . Cons Handless Weakness (Underfoot) You are Dazed (1) for a number of turns equal to the damage dealt, and you lose your active power-up if you have one. Tech Defaults . Aerial Snatch . Two of the following: Counter Lingering x2 Indirect Ranged, Element (Any, related to chosen Power-Up or Item) Aquatic, Carrier, or Hover (as a Personal Trait) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#fake-block",
+    
+    "relUrl": "/species/big_meaty_book_of_races#fake-block"
+  },"16": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Fronk",
+    "content": ". Fronks are bizarre little creatures found in most urban areas. They have an innate connection with technology, which can often put them into precarious situations when investigating machines. +2 Spirit *1 Power, 0 Defense . Pros + Magic (Technology) + Knowhow (Hacking) + Trickery (Stealth) Clones (Copies) Efficient (Technology){: .mgl .fs-3 } . Cons Weakness (Air) You must make a Steady check versus Disorientation, lasting a number of turns equal to the damage taken (minimum 1 turn). Tech Defaults . Repeat Simple Selective Tool . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#fronk",
+    
+    "relUrl": "/species/big_meaty_book_of_races#fronk"
+  },"17": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gearmo",
+    "content": ". From Super Mario Galaxy . Gearmos are autonomous janitors, most well equipped for the care and maintenance of machinery. They can be very particular with keeping things clean, and are easily irked when things make their jobs harder. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Crafts (Maintenance) + Knowhow (Machinery) + Bully (Chiding) Construct (Lifelike) 1 Resist (Blast) . Cons Weakness (Shock) You become Dazed (1), lasting for a number of turns equal to the damage taken. Tech Defaults . Disable Homing Swap x2 Tool (Built-In) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gearmo",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gearmo"
+  },"18": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gooble",
+    "content": ". From Super Mario Sunshine . Goobles come in all colors of the rainbow. Being made of paint, they have a knack for creativity that goes into everything they do. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Leaping) + Crafts (Painting) + Bully (Poison) Clones (Copies) Immune (Poison) You heal 5 HP instead. Cons Handless Weakness (Water) You take double damage. If this Technique wouldn't usually deal damage, it deals 2 Piercing damage. Your Attack is Weakened (1) for a number of turns equal to the damage taken. Tech Defaults . Drain x2 Lingering x2 Spillover Terrain (Goop) . Optional: Element (Poison) on Indirect or Ranged Techniques . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gooble",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gooble"
+  },"19": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gotchawrench",
+    "content": ". From Wrecking Crew . These malignant tools are what happens when a tool goes for too long without use, growing resentful and finding use for themselves. Often, this leads to them causing trouble in order to make problems for them to fix. Despite the name, Gotchawrenches can take the form of most any hardware tool. +2 Heart 1 Power, 0 Defense . Pros + Athletics (Demolition) + Crafts (Construction) or + Crafts (Jury-Rig) + Trickery (Stealth) Construct (Lifelike) . Cons N/A . Tech Defaults . Daze x2 Piercing Quake Tool (Built-In) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gotchawrench",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gotchawrench"
+  },"20": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gushen",
+    "content": ". From Super Mario Odyssey . Gushen are haughty sea creatures, priding themselves on their speed and their 'staches. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Propel) + Aim (Spray) + Poise (Etiquette) Aquatic Fly You cannot use your fly if you do not have access to water. Cons Handless Weakness (Heatwave/Lava) You cannot use your fly or hover personal traits in battles where either of these conditions are present, unless there is a nearby source of water. Tech Defaults . Element (Water) Provoke x2 Ranged Spillover . Optional: Element (Water) on Indirect or Ranged attacks . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gushen",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gushen"
+  },"21": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Honeybee",
+    "content": ". From Super Mario Galaxy . Honeybees live out fulfilling lives creating honey for their colony, and carrying out the will of their queen. Some may leave their colonies to act as emissaries of their kingdom, or to see what the wider world holds for them. +2 Courage 1 Power, 0 Defense . Pros + Heal (Syrup) + Trickery (Dodge) + Steady (Orderly) Fly . Cons N/A . Tech Defaults . Aerial Flowery Lingering x2 (Poison) Strike-Through x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#honeybee",
+    
+    "relUrl": "/species/big_meaty_book_of_races#honeybee"
+  },"22": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Jibberjay",
+    "content": ". These loud-mouthed avians live for the thrill of competition. They make their homes in jungles, where they can find challenging places to race each other. +2 Courage 1 Power, 0 Defense . Pros + Athletics (Flying) + Bully (Taunting) + Perform (Stylish Moves) Fly . Cons N/A . Tech Defaults . Aerial Boost (Dodge) Disable x2 Disorient . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#jibberjay",
+    
+    "relUrl": "/species/big_meaty_book_of_races#jibberjay"
+  },"23": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Li'l Oink",
+    "content": ". From Paper Mario . These bespeckled pigs are skittish little things, though are beloved by all for their patterns. They are creatures of chance, happening upon places and things they generally shouldn't. Created by @lonelyazalea . +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Fleeing) + Notice (Movement) + Perform (Cuteness) Immune (Confusion) . Cons Handless . Tech Defaults . All Roulette (-2 FP on one Roulette Slot) Lucky Hit, Fumble (-3 FP on the Lucky Slot) Coin Toss (-3 FP on one Coin Slot) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#lil-oink",
+    
+    "relUrl": "/species/big_meaty_book_of_races#lil-oink"
+  },"24": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Mister I",
+    "content": ". From Super Mario 64 . Mister Is are incredibly odd beings, being large floating eyeballs. Their disconcerting gaze is described as disturbing by some, and hypnotic by others. Usually, though, you can find them just.. float there. +2 Spirit 1 Power, 0 Defense . Pros + Notice (Observations) + Notice (Secrets) + Bully (Unnerve) Hover . Cons Handless Weakness (Disoriented) The Level and Duration of any Disoriented inflicted on you is doubled. Tech Defaults . Confuse x2 Fear x2 Homing Ranged . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#mister-i",
+    
+    "relUrl": "/species/big_meaty_book_of_races#mister-i"
+  },"25": {
+    "doc": "Big Meaty Book of Races",
+    "title": "New Donker",
+    "content": ". From Super Mario Odyssey . Most New Donkers are just trying to get by. They're usually no-nonsense, but see the importance of taking time to wind down from work. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Knowhow (Any one job, chosen at character creation) + Trickery (Join the Crowd) + Perform (Modern Hits) . Cons N/A . Tech Defaults . Alternative (Coins) Tool . 1x Custom Set of Traits Custom Sets are defined during character creation. For New Donkers, they can include any Traits totalling no more than 2 FP, and can't include negative Traits. ",
+    "url": "/homebrew/species/big_meaty_book_of_races#new-donker",
+    
+    "relUrl": "/species/big_meaty_book_of_races#new-donker"
+  },"26": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Pi'illo",
+    "content": ". From Mario &amp; Luigi: Dream Team . The Pi'illo are an ancient people, hailing from Pi'illo Island. Though many are content to stay in their ancestral homes, the dreamy and longing nature of the Pi'illo folk lead them to travel beyond the island's shores. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Crafts (Bedwear) + Magic (Dreams) + Cheer (Inspire) Hover . Cons Weakness (Sleep) The Level and Duration of all statuses you suffer associated with sleep are doubled. Tech Defaults . Aerial Daze x2 Ranged Tutor . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#piillo",
+    
+    "relUrl": "/species/big_meaty_book_of_races#piillo"
+  },"27": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Pixl",
+    "content": ". From Super Paper Mario . These geometric constructs were created from the spirits of the Game Overed by the shamans, fit into vessels for specific purposes. Though the means of their creation have been lost to all but the eldest of shamans, many still lie in wait in forgotten parts of the world. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Knowhow (Ancient Lore) + Magic (Skill Substitution) + Cheer (Assist) Construct (Lifelike) Fly . Cons Handless . Tech Defaults . Boost (Any) Hustle, Others Tool (Built-In) Tutor . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#pixl",
+    
+    "relUrl": "/species/big_meaty_book_of_races#pixl"
+  },"28": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Portrait Ghost",
+    "content": ". From Luigi's Mansion . Portrait ghosts come from portraits of people who've died. They'll often become a mimicry of the person they were painted after, partaking in jobs and routines that the subject did in life. +2 Spirit 1 Power, 0 Defense . Pros + Athletics (Telekinesis) + Knowhow (Any, defined at character creation) + Trickery (Dodge) Hover Immune (Fear, Poison) Intangible Undead (Lifelike) . Cons Weakness (Sudden Light) You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn). Tech Defaults . Drain Fear x2 Launch Throw . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#portrait-ghost",
+    
+    "relUrl": "/species/big_meaty_book_of_races#portrait-ghost"
+  },"29": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Sammer Guy",
+    "content": ". From Super Paper Mario . These valiant warriors come from the Sammer Kingdom. Each lives by their own personal code of honor, often finding work as mercenaries. But each guy fights for two things above all: glory for themselves, and for the Sammer Kingdom. +2 Heart 1 Power, 1 Defense . Pros + Coordination (Acrobatics) + Guard (Melee) + Bully (Intimidate) . Cons N/A . Tech Defaults . Counter Fear x2 Piercing Tool (Indirect) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#sammer-guy",
+    
+    "relUrl": "/species/big_meaty_book_of_races#sammer-guy"
+  },"30": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Steam Gardener",
+    "content": ". From Super Mario Odyssey . Gardening automatons who call the Wooded Kingdom home. Gardeners will often go on pilgrimages to distant lands to learn about new plants, and bring seeds back to their home. +1 Heart, +1 Spirit 1 Power, 1 Defense . Pros + Aim (Watering) + Crafts (Plants) + Knowhow (Flora) Construct (Lifelike) Sinker . Cons N/A . Tech Defaults . Dismiss Flowery Ranged Spillover . Optional: Element (Water) on Ranged attacks . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#steam-gardener",
+    
+    "relUrl": "/species/big_meaty_book_of_races#steam-gardener"
+  },"31": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Shiverian",
+    "content": ". From Super Mario Odyssey . These racers are as cheerful as their bodies are dense. Their thick fat helps them maneuver around without much use of their tiny legs, and helps them to protect what they care about. They adore friendly competition, and you'd be hard pressed to find a shiverian who backs down from a challenge. +2 Heart 1 Power, 0 Defense . Pros + Athletics (Bouncing) + Guard (Melee) + Steady (Balance) 1 Resist (Ice) . Cons N/A . Tech Defaults . Aerial Counter, Harmless Disorient Stun . Optional: Element (Ice) on Indirect attacks . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#shiverian",
+    
+    "relUrl": "/species/big_meaty_book_of_races#shiverian"
+  },"32": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Shroob",
+    "content": ". From Mario &amp; Luigi: Partners in Time . Shroobs were once a race of fearsome aliens from Planet Shroob. Now, they've faced near extinction. The shroobs who still remain are just as shrewd and intelligent as their forefathers, and may one day seek to rise for another takeover… . +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Aim (Rays) + Crafts (Gadgets) + Knowhow (Biology) . Cons N/A . Tech Defaults . Minion (RC Drones) Tool (Ranged) Variant (Crafts) Weaken . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#shroob",
+    
+    "relUrl": "/species/big_meaty_book_of_races#shroob"
+  },"33": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Tiki",
+    "content": ". From Donkey Kong Country Returns . Tikis are a proud race of self-made, fruit fueled tribesmen. They possess great talent in music, which they often use to create disorienting and hypnotic songs to gain the upper hand. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Crafts (Woodworking) + Magic (Hypnotism) + Perform (Music) Construct (Lifelike) Hover . Cons Handless, or Weakness (Crushing) You take +2 damage and fall to the ground. This leaves you Dazed (1) for a number of turns equal to the damage dealt. Tech Defaults . Charm Confuse x2 Disorient Element (Fire) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#tiki",
+    
+    "relUrl": "/species/big_meaty_book_of_races#tiki"
+  },"34": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Topman",
+    "content": ". From Super Mario Galaxy . Topmen are a tribe of spacefaring robots, constantly seeking territory. They often settle clashes by crashing into each other, seeing who falls first. Topmen are often honorable in the art of combat, using the bulk of their body to take down their foes. +1 Heart, +1 Courage 1 Power, 1 Defense . Pros + Athletics (Spinning) + Bully (Knock Around) + Steady (Balance) Construct (Lifelike) Sinker . Cons Weakness (Shock) You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken. Tech Defaults . Counter Disorient Divider Launch . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#topman",
+    
+    "relUrl": "/species/big_meaty_book_of_races#topman"
+  },"35": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Tostarenan",
+    "content": ". From Super Mario Odyssey . These fiesta loving skeletons call the sand kingdom home. Though when they leave the sands of Tostarena behind, they always bring the party with them. +2 Courage 1 Power, 0 Defense . Pros + Trickery (Parlour Tricks) + Cheer (Celebrations) + Perform (Instruments) Resilient Undead (Lifelike) . Cons Weakness (Blast) You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken. Tech Defaults . Allies Boost (Any) Charm Dismiss . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#tostarenan",
+    
+    "relUrl": "/species/big_meaty_book_of_races#tostarenan"
+  },"36": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Tox Box",
+    "content": ". From Super Mario 64 . Tox Boxes follow patterns their whole life, idly rolling about. Unless, of course, something stops them from completing their pattern, in which case they begin to wander around.. +2 Heart 1 Power, 1 Defense . Pros + Athletics (Run Over) + Guard (Melee) + Bully (Knock Over) Construct Sinker . Cons Handless . Tech Defaults . Daze x2 Overrun Secure, Others Sequential . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#tox-box",
+    
+    "relUrl": "/species/big_meaty_book_of_races#tox-box"
+  },"37": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Tsubon",
+    "content": ". From Mario &amp; Wario . These cursed urns often serve as mindless guards of caverns and temples. Though, there are a few among them who gain a heightened sense of self, setting out to find purpose in the world. +2 Heart 1 Power, 0 Defense . Pros + Aim (Projectiles) + Athletics (Climbing) + Crafts (Pottery) Construct (Lifelike) . Cons Weakness (Launch/Throw) If targeted by a move with the Launch or Thrown tags, your pottery cracks. You are Weakened (-1 POW) for a turn for each point of damage taken (minimum 1 turn). Tech Defaults . Lingering x2 Piercing Ranged Repeat . Optional: Element (Any) on Ranged attacks. (Must be decided at character creation) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#tsubon",
+    
+    "relUrl": "/species/big_meaty_book_of_races#tsubon"
+  },"38": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Twilighter",
+    "content": ". From Paper Mario: The Thousand Year Door . These shady folk prefer the darker corners of the world. Though their disposition may be gloomy, they're hardy survivors who will stand for the safety of friends and family. Though, they may just take the longer or less noticeable route to success. +2 Spirit 1 Power, 0 Defense . Pros + Crafts (Stitching) + Trickery (Hiding) + Bully (Coerce) Resilient . Cons Weakness (Curses) The duration of effects caused by curses are doubled. Weakness (Sudden Light) You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn). Tech Defaults . Daze x2 Repeat Snatch Terrain (Darkness) . Optional: Element (Shadow) on Indirect or Ranged Techniques . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#twilighter",
+    
+    "relUrl": "/species/big_meaty_book_of_races#twilighter"
+  },"39": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Uproot",
+    "content": ". From Super Mario Odyssey . Uproots dwell in deep forests, creating shells to protect themselves from the elements. Weirdly enough, the shells they make often resemble plant pots.. +2 Heart 1 Power, 0 Defense . Pros + Athletics (Jumping) + Guard (Melee) + Crafts (Ceramics) Elevation . Cons N/A . Tech Defaults . Aerial Indirect Reach Repeat . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#uproot",
+    
+    "relUrl": "/species/big_meaty_book_of_races#uproot"
+  },"40": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Virus",
+    "content": ". From Dr. Mario . Viruses are naughty little creatures, most often set to inflict their ails on whoever they come across. Even so, when faced with threats much greater than one of their own, their camaraderie is second to none, joining forces to take on tough foes. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Knowhow (Medicine) + Trickery (Shenanigans) + Bully (Weaken) Clone (Copies) . Cons Weakness (Life Magic, Medicine) You treat the HP you would normally recover as damage. Tech Defaults . Confuse x2 Disable x2 Lingering x2 (Sickness) Weaken . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#virus",
+    
+    "relUrl": "/species/big_meaty_book_of_races#virus"
+  },"41": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Volbonan",
+    "content": ". From Super Mario Odyssey . These expert chefs call the Luncheon Kingdom home. The travelers amongst them are always searching for new flavors for their dishes, and new meals to sample. Wherever a Volbonan goes, tasty food is sure to follow. Credit to \"Lwiis64\" on DeviantArt for the art. +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Aim (Throw Item) + Crafts (Food) + Knowhow (Culinary) 1 Resist (Fire) . Cons N/A . Tech Defaults . Element (Fire) Hearty x2 Launch Piercing . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#volbonan",
+    
+    "relUrl": "/species/big_meaty_book_of_races#volbonan"
+  },"42": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Whittle",
+    "content": ". From Super Mario Galaxy 2 . Whittles are tree spirits, well known the world over for their bravery and pride. Though they may be lacking in conversation skills, a whittle is a stalwart friend, dedicated to whatever they may deem their cause to be. +1 Heart, +1 Spirit 1 Power, 1 Defense . Pros + Athletics (Sliding) + Knowhow (Plants) + Steady (Resilience) Immune (Fear) . Cons Weakness (Fire) You take a +2 damage and suffer from a Lingering burn, lasting a number of turns equal to the damage taken. Tech Defaults . Aerial Hearty x2 Overrun Strike-Through x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#whittle",
+    
+    "relUrl": "/species/big_meaty_book_of_races#whittle"
+  },"43": {
+    "doc": "Tags",
+    "title": "Tag cloud",
+    "content": "The tag cloud lists all used tags in alphabetical order. The size of the text is related to the number of times the tag is used; the exact number is shown on the tag pages, and in the list below. If you would like to suggest a new tag, feel free to open a new issue and ask about it ! . species . ",
+    "url": "/homebrew/tag/#tag-cloud",
+    
+    "relUrl": "/tag/#tag-cloud"
+  },"44": {
+    "doc": "Tags",
+    "title": "Tag index",
+    "content": "#species 1 uses. Articles about species, or adding new species. Used tags: 1 of 1 . ",
+    "url": "/homebrew/tag/#tag-index",
+    
+    "relUrl": "/tag/#tag-index"
+  },"45": {
+    "doc": "Tags",
+    "title": "Tags",
+    "content": " ",
+    "url": "/homebrew/tag/",
+    
+    "relUrl": "/tag/"
+  },"46": {
+    "doc": "Contributors",
+    "title": "Contributor index",
+    "content": "Flaws 1 articles. Meï 0 articles. Active users: 1 of 2 . ",
+    "url": "/homebrew/contributor/#contributor-index",
+    
+    "relUrl": "/contributor/#contributor-index"
+  },"47": {
+    "doc": "Contributors",
+    "title": "Contributors",
+    "content": " ",
+    "url": "/homebrew/contributor/",
+    
+    "relUrl": "/contributor/"
+  },"48": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "Welcome to the Homebrew Wiki for Paper Story TTRPG ! . Paper Mario, Mario and all related properties are a trademark of Nintendo. Nintendo does not sponsor, authorise or endorse Paper Story. Currently WIP . ",
+    "url": "/homebrew/",
+    
+    "relUrl": "/"
+  },"49": {
+    "doc": "Species",
+    "title": "Homebrew Species",
+    "content": " ",
+    "url": "/homebrew/species#homebrew-species",
+    
+    "relUrl": "/species#homebrew-species"
+  },"50": {
+    "doc": "Species",
+    "title": "Species",
+    "content": " ",
+    "url": "/homebrew/species",
+    
+    "relUrl": "/species"
+  }
+}
