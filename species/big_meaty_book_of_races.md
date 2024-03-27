@@ -343,6 +343,43 @@ contributors:
 >
 
 {: .specie-callout }
+> ## Bulrush (WIP)
+>
+> ![](../assets/images/species/fronk.png)
+> {: .float-right-desktop }
+> Bulrush are typically placid beasts roaming the grasslands of the world. But placid doesn’t mean harmless! They charge at each other as a greeting, which often leads many to be on the pointy end of their horns, warranted or not.
+> ***+2 Heart**{: .heart-color}*{: .text-gamma .header-font }  
+> *2 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Charge){: .heart-color }  
+> > *+ Guard (Melee){: .heart-color }
+> > *+ Bully (Shove)*{: .courage-color }  
+> > {: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Charm/Confuse/Provoke) 
+> > *The Level and Duration of any of these Statuses inflicted on you is doubled.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Other Traits*{: .text-gamma .header-font }  
+> > Any other qualities the species has that may not fit neatly into a Pro or a Con go here in one large block underneath Pros and Cons.  
+> > Most often this is for Species with a State Trait, which grants them contextual bonuses/penalties.
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Example Tech 1  
+> > *Example Tech 2*{: .alt-grey-line }  
+> > Example Tech 3  
+> > *Example Tech 2*{: .alt-grey-line }  
+> >
+> > Any *Required*{: .underlined } or *Optional*{: .underlined } effects are listed underneath, and can (or must) be taken in addition to Tech Defaults.
+> 
+
+{: .specie-callout }
 > ## Cataquack
 >
 > ![](../assets/images/species/cataquack.png)
