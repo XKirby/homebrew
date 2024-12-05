@@ -242,6 +242,47 @@ contributors:
 >
 
 {: .specie-callout }
+> ## Bristle
+>
+> ![](../assets/images/species/bristle.webp)
+> {: .float-right-desktop }
+> 
+> From *Paper Mario: The Thousand Year Door*{: .italic }
+> 
+> Bristles are autonomous sentinels, set to keep watch over the ruins of fallen civilizations. They delight in carrying out their duty, taking glee in fending off outsiders and threats.
+> 
+> ***+1 Heart**{: .heart-color}, **+1 Courage**{: .courage-color}*{: .text-gamma .header-font }  
+> *1 Power, 2 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Notice (Keep Watch){: .spirit-color }  
+> > *+ Trickery (Camouflage){: .spirit-color }
+> > *+ Steady (Balance)*{: .courage-color }  
+> > Construct
+> > Contact
+> > *Your Contact trait can protect you from tool-based melee attacks.*{: .mgl .fs-3 }
+> > Immune (Fire)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Blast, Quake) 
+> > *You are flipped over, and your Defense is negated for the duration. This leaves you completely Stunned (6) for 2 turns. You still retain your contact trait, though you are no longer protected from tool-based melee attacks.*{: .mgl .fs-3 }
+> > Handless
+>
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Counter
+> > *Disarm x2*{: .alt-grey-line }  
+> > Piercing
+> > *Tool (Built-in)*{: .alt-grey-line }  
+> >
+> > Any *Required*{: .underlined } or *Optional*{: .underlined } effects are listed underneath, and can (or must) be taken in addition to Tech Defaults.
+> 
+
+{: .specie-callout }
 > ## Brock
 >
 > ![](../assets/images/species/brock.png)
@@ -343,11 +384,14 @@ contributors:
 >
 
 {: .specie-callout }
-> ## Bulrush (WIP)
+> ## Bulrush
 >
-> ![](../assets/images/species/fronk.png)
+> ![](../assets/images/species/bulrush.webp)
 > {: .float-right-desktop }
+> 
+> From *Super Mario Bros. Wonder*{: .italic }
 > Bulrush are typically placid beasts roaming the grasslands of the world. But placid doesn’t mean harmless! They charge at each other as a greeting, which often leads many to be on the pointy end of their horns, warranted or not.
+>
 > ***+2 Heart**{: .heart-color}*{: .text-gamma .header-font }  
 > *2 Power, 0 Defense*{: .text-gamma .header-font }  
 >
@@ -363,18 +407,14 @@ contributors:
 > > Weakness (Charm/Confuse/Provoke) 
 > > *The Level and Duration of any of these Statuses inflicted on you is doubled.*{: .mgl .fs-3 }
 >
-> {: .specie-inner-callout }
-> > *Other Traits*{: .text-gamma .header-font }  
-> > Any other qualities the species has that may not fit neatly into a Pro or a Con go here in one large block underneath Pros and Cons.  
-> > Most often this is for Species with a State Trait, which grants them contextual bonuses/penalties.
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Example Tech 1  
-> > *Example Tech 2*{: .alt-grey-line }  
-> > Example Tech 3  
-> > *Example Tech 2*{: .alt-grey-line }  
+> > Piercing
+> > *Overrun*{: .alt-grey-line }  
+> > Spillover  
+> > *Stun*{: .alt-grey-line }  
 > >
 > > Any *Required*{: .underlined } or *Optional*{: .underlined } effects are listed underneath, and can (or must) be taken in addition to Tech Defaults.
 > 
@@ -414,6 +454,41 @@ contributors:
 >
 
 {: .specie-callout }
+> ## Cherbil
+>
+> ![](../assets/images/species/cherbil.webp)
+> {: .float-right-desktop }
+> From *Super Paper Mario*{: .italic }  
+>
+> Enigmatic cloudy creatures, cherbils float using internalized gasses that they release in order to protect themselves. You don’t wanna know where the gas comes from. Trust us.
+>
+> ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Knowhow (Cuisine)*{: .spirit-color }  
+> > *+ Knowhow (Intrigue)*{: .spirit-color }  
+> > *+ Bully (Disgust)*{: .courage-color }  
+> > Hover
+> > Immune (Gases)
+> > *Gas-based attacks and effects have no effect on you.*{: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Aerial
+> > *Daze x2*{: .alt-grey-line }  
+> > Lingering x2  
+> > *Stun*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
 > ## Coconutter
 >
 > ![](../assets/images/species/coconutter.png)
@@ -448,6 +523,40 @@ contributors:
 >
 
 {: .specie-callout }
+> ## Crab
+>
+> ![](../assets/images/species/crab.webp)
+> {: .float-right-desktop }
+> From *Mario Bros.*{: .italic }  
+>
+> Sidesteppers, Huckits, Crabbers… crabs are plentiful across the world, going by many names. Easily agitated, one would be a fool to end up on the pointed part of their claws.
+>
+> ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Aim (Fling)*{: .heart-color }  
+> > *+ Guard (Melee)*{: .heart-color }  
+> > *+ Notice (Underwater)*{: .spirit-color }  
+> > Aquatic
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Blast, Quake)  
+> > *You are flipped over, leaving you completely Stunned (6) for the next 2 turns. Your Defense is negated during this time.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Counter 
+> > *Disarm x2*{: .alt-grey-line }  
+> > Piercing  
+> > *Throw*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
 > ## Cragnon
 >
 > ![](../assets/images/species/cragnon.png)
@@ -477,6 +586,108 @@ contributors:
 > > *Daze x2*{: .alt-grey-line }  
 > > Strike-Through  
 > > *Tool*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
+> ## Cursya
+>
+> ![](../assets/images/species/cursya.webp)
+> {: .float-right-desktop }
+> From *Super Paper Mario*{: .italic }  
+>
+> These gooey terrors are chock-full of cursed energy. Even just grazing one can be enough to stir up some bad luck!
+>
+> ***+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Guard (Melee)*{: .heart-color }  
+> > *+ Magic (Curses)*{: .spirit-color }
+> > *+ Bully (Weaken)*{: .spirit-color }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > N/A
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Counter
+> > *Stun*{: .alt-grey-line }  
+> > Tutor (May not have any positive traits)
+> > *Weaken (Any)*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
+> ## Dorrie
+>
+> ![](../assets/images/species/dorrie.webp)
+> {: .float-right-desktop }
+> From *Super Mario 64*{: .italic }  
+>
+> Gentle giants of the seas and rivers, dorries often drift along, taking in the world as they go. They’re a little awkward on land, but otherwise make for lovely company.
+>
+> ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Swim)*{: .heart-color }  
+> > *+ Coordination (Carrying)*{: .heart-color }
+> > *+ Notice (Underwater)*{: .spirit-color }
+> > Immune (Poison)
+> > Aquatic
+> > Carrier (In Water)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Overrun
+> > *Reach*{: .alt-grey-line }  
+> > Selective
+> > *Swap x2*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
+> ## Dragon
+>
+> ![](../assets/images/species/dragon.webp)
+> {: .float-right-desktop }
+> From *Super Mario 64*{: .italic }  
+>
+> Dragons are fearsome creatures, holding sway over powerful breath attacks, and commanding personalities. Being in the good graces of a dragon can be one of the strongest boons anyone can receive.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Fly)*{: .heart-color }  
+> > *+ Notice (Treasure)*{: .spirit-color }
+> > *+ Bully (Assert Self)*{: .courage-color }
+> > Carrier
+> > Fly
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Waekness (Specific Noise)
+> > *Choose a specific, common sound, such as a cricket’s chirp, thunderclaps, or a bell. Whenever you can hear this sound, your attack is Weakened (2), and you lose any defense points you have, for as long as you can hear the sound (minimum 1 turn).*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Burst
+> > *Drain x2*{: .alt-grey-line }  
+> > Element (Any, defined at character creation)
+> > *Quake*{: .alt-grey-line }  
 > >
 >
 
@@ -556,13 +767,50 @@ contributors:
 >
 
 {: .specie-callout }
+> ## Floro Sapien
+>
+> ![](../assets/images/species/floro_sapien.webp)
+> {: .float-right-desktop }
+> From *Super Mario 3D Land*{: .italic }  
+>
+> Distant relatives of dayzees, Floro Sapiens are extremely conscious of their environment. They work to keep it clean and safe, and often resort to hostility when they can’t fix the problem with good vibes.
+>
+> ***+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Magic (IOnfluence)*{: .spirit-color }  
+> > *+ Knowhow (Nature)*{: .spirit-color }  
+> > *+ Steady (Thorns)*{: .courage-color }  
+> > Immunity (Water)
+> > **You heal *5 HP*{: .heart-color } instead.**{: .mgl .fs-3 }
+> > 1 Resist (Earth)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Poison)  
+> > *You take +2 damage and are confused (3) for 2 turns.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Alternate (HP), Indirect
+> > *Charm*{: .alt-grey-line }  
+> > Counter (Self)
+> > *Daze x2*{: .alt-grey-line }
+> > 
+> > *Created by: @lonelyazalea*{: .italic }
+>
+
+{: .specie-callout }
 > ## Fronk
 >
 > ![](../assets/images/species/fronk.png)
 > {: .float-right-desktop }
 > Fronks are bizarre little creatures found in most urban areas. They have an innate connection with technology, which can often put them into precarious situations when investigating machines.  
 >
-> ***+2 Spirit**{: .spirit-color }{: .text-gamma .header-font }  
+> ***+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
@@ -585,7 +833,43 @@ contributors:
 > > *Simple*{: .alt-grey-line }  
 > > Selective  
 > > *Tool*{: .alt-grey-line }  
-> >  
+> > 
+> > *Concept: @yossycoin*{: .italic }
+>
+
+{: .specie-callout }
+> ## Gamboo
+>
+> ![](../assets/images/species/gamboo.png)
+> {: .float-right-desktop }
+> From *Super Mario Bros. Wonder*{: .italic }  
+>
+> Clans of gamboo travel the lands as one, speaking and acting in unison. Though sometimes, an individual gamboo may set out to start their own clan, or to find higher purpose. Even so, company is never far when traveling with a gamboo.
+>
+> ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }
+> > *+ Crafts (Bamboo)*{: .spirit-color }  
+> > *+ Trickery (Camouflage)*{: .spirit-color }
+> > *+ Steady (Balance)*{: .courage-color }
+> > {: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+> > {: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Indirect  
+> > *Minion (Gamboo)*{: .alt-grey-line }  
+> > Ranged  
+> > *Sequential*{: .alt-grey-line }  
+> > 
+> > *Optional*{: .underlined }: Variant (*Steady*{: .courage-color }) on Minion techniques.
 >
 
 {: .specie-callout }
@@ -734,6 +1018,39 @@ contributors:
 >
 
 {: .specie-callout }
+> ## Gusty
+>
+> ![](../assets/images/species/gusty.webp)
+> {: .float-right-desktop }
+> Gusties are wind spirits who go wherever the wind blows. A gusty is as carefree as the spring breeze, never staying in one place for too long before setting off for the next new experience.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Flying)*{: .heart-color }  
+> > *+ Knowhow (Navigation)*{: .spirit-color }  
+> > *+ Bully (Pushover)*{: .courage-color }  
+> > Hover
+> > Fly
+> > {: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > N/A
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Aerial
+> > *Overrun*{: .alt-grey-line }  
+> > Strike-through
+> >
+> > *Optional*{: .underlined }: Element (Air) on Indirect attacks
+>
+
+{: .specie-callout }
 > ## Honeybee
 >
 > ![](../assets/images/species/honeybee.png)
@@ -767,6 +1084,41 @@ contributors:
 >
 
 {: .specie-callout }
+> ## Inchworm Pipe
+>
+> ![](../assets/images/species/inchworm_pipe.webp)
+> {: .float-right-desktop }
+> From *Super Mario Bros. Wonder*{: .italic }  
+>
+> Pipes suffused with Wonder Power, inchworm pipes are often in constant motion. If an inchworm pipe wants to get somewhere, there’s little that can be done to stop it.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color}*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Climbing)*{: .heart-color }  
+> > *+ Magic (Transport)*{: .spirit-color }  
+> > *+ Trickery (Blend In)*{: .spirit-color }  
+> > Carrier
+> > Construct (Lifelike)
+> > Sinker
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Divider  
+> > *Overrun*{: .alt-grey-line }  
+> > Ranged
+> > *Swap x2*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
 > ## Jibberjay
 >
 > ![](../assets/images/species/jibberjay.png)
@@ -794,6 +1146,40 @@ contributors:
 > > *Boost (Dodge)*{: .alt-grey-line }  
 > > Disable x2  
 > > *Disorient*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
+> ## Kerpop
+>
+> ![](../assets/images/species/ke3rpop.webp)
+> {: .float-right-desktop }
+> From *Super Mario Bros. Wonder*{: .italic }  
+>
+> Kerpops are distant relatives to goombas. Over time, they’ve adapted their bodies to the harsh volcanic conditions they dwell in, with built-in defense mechanisms for when things get too hot.
+>
+> ***+1 Heart**{: .heart-color}, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Jumping)*{: .heart-color }  
+> > *+ Crafts (Cooking)*{: .spirit-color }  
+> > *+ Bully (Loud Noises)*{: .courage-color }  
+> > Immune (Fire)
+> > *If targeted by a technique with Element (Fire), your hard body pops, lightening your weight. You gain a 1d6 bonus to any rolls relating to jumping or going airborne. While popped, your Immune (Fire) becomes 1 Resist (Fire). This lasts until the end of combat, or until the end of the scene.*{: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Aerial  
+> > *Burst*{: .alt-grey-line }  
+> > Disorient  
+> > *Provoke x2*{: .alt-grey-line }  
 > >
 >
 
@@ -830,6 +1216,45 @@ contributors:
 > > Lucky Hit, Fumble (-3 FP on the Lucky Slot)  
 > > *Coin Toss (**-3 FP**{: .spirit-color } on one Coin Slot)*{: .alt-grey-line }  
 > >
+>
+
+{: .specie-callout }
+> ## Milde
+>
+> ![](../assets/images/species/milde.webp)
+> {: .float-right-desktop }
+> From *Paper Mario*{: .italic }  
+>
+> Mildes are known to be a cheerful and carefree bunch, not letting much get to them. They’re known for their precise movements and marching, though tend to be a little airheaded… especially when stomped on.
+>
+> *Created by **@lonelyazalea**{: .courage-color }*{: .fs-3 }
+>
+> ***+2 Courage**{: .courage-color}, or **+1 Heart**{: .heart-color }and **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Popping)*{: .heart-color }  
+> > *+ Coordination (Marching)*{: .heart-color }  
+> > *+ Steady (Poise)*{: .courage-color }  
+> > Clone (Copies)
+> > **You may use *Athletics*{: .heart-color } in order to create a copy.**{: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+> > Weakness (Aerial)
+> > *You take double damage, and are forced to create a copy. Each copy has -1 attack, increasing by -1 for every subsequent copy made this way.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Burst
+> > *Indirect*{: .alt-grey-line }  
+> > Launch
+> > 
+> > *Created by: @piyohthegenius*{: .italic }
+> > *CAUTION! With their weakness, a milde player can easily get out of hand in combat. Make sure to run this by your GM first!*{: .bold }
 >
 
 {: .specie-callout }
