@@ -55,7 +55,7 @@ logo: "assets/images/ps.png"
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 baseurl: "/homebrew"
-url: "https://xkirby.github.io"
+url: "https://paperstoryttrpg.github.io"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -63,7 +63,7 @@ url: "https://xkirby.github.io"
 color_scheme: pm
 aux_links:
   - name: "Ruleset"
-    url: "https://xkirby.github.io/en"
+    url: "https://paperstoryttrpg.github.io/en"
     new_tab: true
   - name: "Itch.io"
     url: "https://joy-games.itch.io/paper-story/"
