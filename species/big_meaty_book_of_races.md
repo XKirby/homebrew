@@ -784,7 +784,7 @@ contributors:
 > > *+ Knowhow (Nature)*{: .spirit-color }  
 > > *+ Steady (Thorns)*{: .courage-color }  
 > > Immunity (Water)
-> > **You heal *5 HP*{: .heart-color } instead.**{: .mgl .fs-3 }
+> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }
 > > 1 Resist (Earth)
 >
 > {: .specie-cons-callout }
@@ -900,7 +900,7 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Disable  
+> > Disarm x2
 > > *Homing*{: .alt-grey-line }  
 > > Swap x2  
 > > *Tool (Built-In)*{: .alt-grey-line }  
@@ -998,7 +998,8 @@ contributors:
 > > *+ Poise (Etiquette)*{: .courage-color }  
 > > Aquatic 
 > > Fly
-> > *You cannot use your fly if you do not have access to water.*{: .mgl .fs-3 }
+> > Hover
+> > *You cannot use your fly or hover traits if you do not have access to water.*{: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -1045,7 +1046,7 @@ contributors:
 > >
 > > Aerial
 > > *Overrun*{: .alt-grey-line }  
-> > Strike-through
+> > Strike-Through
 > >
 > > *Optional*{: .underlined }: Element (Air) on Indirect attacks
 >
@@ -1326,6 +1327,77 @@ contributors:
 >
 
 {: .specie-callout }
+> ## Phanto
+>
+> ![](../assets/images/species/phanto.webp)
+> {: .float-right-desktop }
+> From *Super Mario Bros. 2*{: .italic }  
+>
+> Phantos are ancient guardians of relics, most commonly found in ruins and dark places. What stirs them from their duty is largely unknown, but a phanto is utterly relentless in pursuit of its goals.
+>
+> ***+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Knowhow (Lore)*{: .spirit-color }  
+> > *+ Notice (Pursuit)*{: .spirit-color }  
+> > *+ Trickery (Stealth)*{: .spirit-color }  
+> > Construct (Lifelike)  
+> > Fly
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+> > {: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Homing 
+> > *Indirect*{: .alt-grey-line }  
+> > Snatch  
+> > *Strike-Through*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
+> ## Pigarithm
+>
+> ![](../assets/images/species/pigarithm.webp)
+> {: .float-right-desktop }
+> From *Super Paper Mario*{: .italic }  
+>
+> Pigarithm are flighty creatures, due in part to the large amount of coins they carry inside them at all times. The trust of a pigarithm is rarely earned, but represents a near unbreakable bond.
+>
+> ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Linear Speed)*{: .heart-color }  
+> > *+ Notice (Coins)*{: .spirit-color }  
+> > *+ Persuade (Commerce)*{: .courage-color }  
+> > +½ Starting Coins
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+> > Weakness (Aerisl, Crushing)
+> > *The Level and Duration of all Statuses you suffer from these attacks are doubled, and you lose 1 coin per point of damage.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Alternative (Coins) 
+> > *Boost (**Dodge**{: .spirit-color})*{: .alt-grey-line }  
+> > Overrun  
+> > *Minion (Split Selves)*{: .alt-grey-line }  
+> >
+> > *Created by: @lonelyazalea*{: .italic }
+>
+
+{: .specie-callout }
 > ## Pi'illo
 >
 > ![](../assets/images/species/pi_illo.png)
@@ -1391,6 +1463,42 @@ contributors:
 > > Tool (Built-In)  
 > > *Tutor*{: .alt-grey-line }  
 > >
+>
+
+{: .specie-callout }
+> ## Poplin
+>
+> ![](../assets/images/species/poplin.webp)
+> {: .float-right-desktop }
+> From *Super Mario Bros. Wonder*{: .italic }  
+>
+> Poplins are the residents of the Flower Kingdom, following the rule of Prince Florian. They often tend to gardens and wonder seeds, with flowers holding a special place in their society.
+>
+> ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Aim (Items)*{: .heart-color }  
+> > *+ Knowhow (Flora)*{: .spirit-color }  
+> > *+ Persuade (Sales)*{: .courage-color }  
+> > Immune (Water)
+> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }
+> > +½ Syrup effectiveness (for items, as user or target)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Heatwave)
+> > *You are considered Disoriented (1) while in a heatwave.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Flowery 
+> > *Shared*{: .alt-grey-line }  
+> > Terrain (Overgrown)
+> > *Tool*{: .alt-grey-line }  
+> > *Optional*{: .underlined }: Split on Flowery Techniques.
 >
 
 {: .specie-callout }
@@ -1561,6 +1669,108 @@ contributors:
 > > Variant (Crafts)  
 > > *Weaken*{: .alt-grey-line }  
 > >
+>
+
+{: .specie-callout }
+> ## Squirpian
+>
+> ![](../assets/images/species/squirpian.webp)
+> {: .float-right-desktop }
+> From *Super Paper Mario*{: .italic }  
+>
+> Squirpians are a near-extinct race of aliens once trusted with guarding a pure heart. In times since then, they’ve roamed the galaxy with their purpose complete, seeking new meanings for their existence.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Coordination (Piloting)*{: .heart-color }  
+> > *+ Knowhow (Lore)*{: .spirit-color }  
+> > *+ Cheer (Inspire)*{: .spirit-color }
+> > Fly
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > N/A
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Boost (Any)
+> > *Burst*{: .alt-grey-line }  
+> > Provoke x2
+> > *Ranged*{: .alt-grey-line }  
+> >
+>
+
+{: .specie-callout }
+> ## Talking Flower
+>
+> ![](../assets/images/species/talking_flower.webp)
+> {: .float-right-desktop }
+> From *Super Paper Mario*{: .italic }  
+>
+> These Flower Kingdom fellows love nothing more than talking. They often travel far and wide, just to have a conversation partner.
+>
+> ***+2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Knowhow (Any, defined at character creation)*{: .spirit-color }  
+> > *+ Cheer (Encourage)*{: .courage-color }  
+> > *+ Persuade (Shmooze)*{: .courage-color }
+> > Fly
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Boost
+> > *Confuse x2*{: .alt-grey-line }  
+> > Flowery
+> > *Provoke x2*{: .alt-grey-line }  
+> >
+> > *Concept: @piyohthegenius*{: .italic }
+>
+
+{: .specie-callout }
+> ## Theet
+>
+> ![](../assets/images/species/theet.webp)
+> {: .float-right-desktop }
+> From *Princess Peach: Showtime!*{: .italic }  
+>
+> Theets are patrons of the arts, forming some of the best acting troupes around. Though prone to stage fright, there’s very little that will stop a theet from putting on a good show.
+>
+> ***+2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *Trickery (Disguise)*{: .spirit-color }
+> > *or **Crafts (Costumes)**{: .spirit-color }*{: .mgl }
+> > *+ Cheer (Teamwork)*{: .courage-color }  
+> > *+ Perform (Theatrics)*{: .courage-color }
+> > Fly
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Fear)
+> > *The Level and Duration of all Statuses you suffer associated with fear are doubled.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Allies
+> > *Daze x2*{: .alt-grey-line }  
+> > Element (Light)
+> > *Flowery*{: .alt-grey-line }  
+> > 
 >
 
 {: .specie-callout }
@@ -1874,6 +2084,41 @@ contributors:
 > > Launch  
 > > *Piercing*{: .alt-grey-line }  
 > >
+>
+
+{: .specie-callout }
+> ## Waddlewing
+>
+> ![](../assets/images/species/waddlewing.webp)
+> {: .float-right-desktop }
+> From *Super Mario Odyssey*{: .italic }  
+>
+> Waddlewings are deft little creatures, capable of gliding through the air with ease. Many waddlewings find a hobby in collecting objects.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Climb)*{: .heart-color }  
+> > *+ Athletics (Glide)*{: .heart-color }  
+> > *+ Bully (Snatch)*{: .courage-color }  
+> > Fly
+> > *When using this trait to Fly, you only stay airborne for a number of Turns equal to the Grades of Success you rolled to become airborne in the first place.*{: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > N/A
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Aerial
+> > *Disarm x2*{: .alt-grey-line }  
+> > Reach
+> > *Snatch*{: .alt-grey-line }  
+> >
+> > *Credit to @lucydndprincess for fly mechanic.*{: .italic }
 >
 
 {: .specie-callout }
