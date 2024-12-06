@@ -2,7 +2,7 @@
 layout: default
 title: Terrains
 permalink: /terrains
-nav_order: 9
+nav_order: 8
 has_children: true
 ---
 

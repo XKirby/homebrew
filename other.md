@@ -2,10 +2,10 @@
 layout: default
 title: Other
 permalink: /other
-nav_order: 11
+nav_order: 10
 has_children: true
 ---
 
-# Other Homebrew Mechanics and Rules
+# Other Homebrew Things
 {: .no_toc }
 

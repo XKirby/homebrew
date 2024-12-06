@@ -1153,7 +1153,7 @@ contributors:
 {: .specie-callout }
 > ## Kerpop
 >
-> ![](../assets/images/species/ke3rpop.webp)
+> ![](../assets/images/species/kerpop.webp)
 > {: .float-right-desktop }
 > From *Super Mario Bros. Wonder*{: .italic }  
 >
