@@ -34,3 +34,5 @@ gem "just-the-docs"
 # TABLE PARSER
 gem "jekyll-spaceship"
 
+
+gem "webrick", "~> 1.9"
